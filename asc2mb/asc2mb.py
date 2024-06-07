@@ -221,7 +221,7 @@ def main(
 
     """
     # mytree = ET.parse(xml_file)
-    parser = etree.XMLParser(encoding="UTF-8")
+    parser = etree.XMLParser()
     mytree = etree.parse(xml_file, parser)
 
     myroot = mytree.getroot()
