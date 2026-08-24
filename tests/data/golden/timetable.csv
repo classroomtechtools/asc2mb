@@ -1,0 +1,1567 @@
+Class ID,Day,Period,Classroom
+EY1_Entire class,1,3,
+EY1_Entire class,1,4,
+EY1_Entire class,1,5,
+EY1_Entire class,2,2,PE 1
+EY1_Entire class,2,4,Elem Vis Arts
+EY1_Entire class,3,5,
+EY1_Entire class,4,1,PE 2
+EY1_Entire class,4,6,
+EY1_Entire class,5,2,
+EY1_Entire class,6,2,Elem Vis Arts
+EY1_Entire class,6,6,
+EY1_Entire class,7,3,PE 1
+EY1_Entire class,7,4,Elem Vis Arts
+EY1_Entire class,7,6,
+EY1_Group 1,5,5,
+EY2_Entire class,1,3,
+EY2_Entire class,3,3,
+EY2_Entire class,5,3,
+EY2_Entire class,7,3,
+EY2_Group 1,1,2,
+EY2_Group 1,1,4,PE 1
+EY2_Group 1,1,6,
+EY2_Group 1,2,1,
+EY2_Group 1,2,3,Elem Vis Arts
+EY2_Group 1,3,6,
+EY2_Group 1,3,7,
+EY2_Group 1,4,3,Elem Vis Arts
+EY2_Group 1,4,8,PE 2
+EY2_Group 1,6,3,
+EY2_Group 1,7,5,PE 2
+Fireflies_Entire class,6,4,
+Fireflies_Entire class,6,5,PE 1
+G10_amp1,1,1,
+G10_amp1,1,2,
+G10_amp2,1,1,
+G10_amp2,1,2,
+G10_design1,1,7,7-18 MPR
+G10_design1,1,8,7-18 MPR
+G10_design1,3,3,7-16 MPR
+G10_design1,3,4,7-16 MPR
+G10_design1,7,3,7-18 MPR
+G10_design1,7,4,7-18 MPR
+G10_design2,1,7,7-14 MPR
+G10_design2,1,8,7-14 MPR
+G10_design2,3,3,7-18 MPR
+G10_design2,3,4,7-18 MPR
+G10_design2,7,3,7-14 MPR
+G10_design2,7,4,7-14 MPR
+G10_drama,2,1,Visual Arts
+G10_drama,2,2,Visual Arts
+G10_drama,3,7,Drama
+G10_drama,3,8,Drama
+G10_drama,5,5,Drama
+G10_drama,5,6,Drama
+G10_english1LL,1,5,7-12
+G10_english1LL,1,6,7-12
+G10_english1LL,4,5,7-12
+G10_english1LL,4,6,7-12
+G10_english1LL,5,7,7-12
+G10_english1LL,5,8,7-12
+G10_english2LL,1,5,7-25
+G10_english2LL,1,6,7-25
+G10_english2LL,4,5,7-25
+G10_english2LL,4,6,7-25
+G10_english2LL,5,7,7-25
+G10_english2LL,5,8,7-25
+G10_indsoc1,3,1,6-27
+G10_indsoc1,3,2,6-27
+G10_indsoc1,5,1,6-27
+G10_indsoc1,5,2,6-27
+G10_indsoc1,7,1,6-27
+G10_indsoc1,7,2,6-27
+G10_indsoc2,3,5,6-19 MPR
+G10_indsoc2,3,6,6-19 MPR
+G10_indsoc2,4,3,6-23
+G10_indsoc2,4,4,6-23
+G10_indsoc2,6,1,6-19 MPR
+G10_indsoc2,6,2,6-19 MPR
+G10_innovations1,4,7,PE 1
+G10_innovations1,4,8,PE 1
+G10_mathextended,2,5,6-33
+G10_mathextended,2,6,6-33
+G10_mathextended,6,7,6-33
+G10_mathextended,6,8,6-33
+G10_mathextended,7,5,6-33
+G10_mathextended,7,6,6-33
+G10_mathstandard,2,5,6-29
+G10_mathstandard,2,6,6-29
+G10_mathstandard,6,7,6-29
+G10_mathstandard,6,8,6-29
+G10_mathstandard,7,5,6-29
+G10_mathstandard,7,6,6-29
+G10_music,2,1,Drama
+G10_music,2,2,Drama
+G10_music,3,7,Music
+G10_music,3,8,Music
+G10_music,5,5,Music
+G10_music,5,6,Music
+G10_phe1,2,3,PE 3
+G10_phe1,2,4,PE 3
+G10_phe1,4,1,PE 3
+G10_phe1,4,2,PE 3
+G10_phe1,6,5,PE 4
+G10_phe1,6,6,PE 4
+G10_phe2,2,3,PE 4
+G10_phe2,2,4,PE 4
+G10_phe2,4,1,PE 1
+G10_phe2,4,2,PE 1
+G10_phe2,6,5,PE 3
+G10_phe2,6,6,PE 3
+G10_science1,1,3,6-40
+G10_science1,1,4,6-40
+G10_science1,2,7,6-26
+G10_science1,2,8,6-26
+G10_science1,5,3,6-37
+G10_science1,5,4,6-37
+G10_science1,6,3,6-38
+G10_science1,6,4,6-38
+G10_science2,1,3,6-24
+G10_science2,1,4,6-24
+G10_science2,2,7,6-38
+G10_science2,2,8,6-38
+G10_science2,5,3,6-38
+G10_science2,5,4,6-38
+G10_science2,6,3,6-37
+G10_science2,6,4,6-37
+G10_visarts,2,1,Music
+G10_visarts,2,2,Music
+G10_visarts,3,7,Visual Arts
+G10_visarts,3,8,Visual Arts
+G10_visarts,5,5,Visual Arts
+G10_visarts,5,6,Visual Arts
+G10_wellness1,7,7,PE 1
+G10_wellness1,7,8,PE 1
+G112_cpcore__,1,5,6-22b
+G112_cpcore__,1,6,6-22b
+G112_cpcore__,2,5,6-17 MPR
+G112_cpcore__,2,6,6-17 MPR
+G112_music HL/SL_,6,3,Music
+G112_music HL/SL_,6,4,Music
+G112_music HL/SL__,1,7,Music
+G112_music HL/SL__,1,8,Music
+G112_music HL/SL__,2,3,Music
+G112_music HL/SL__,2,4,Music
+G112_music HL/SL___,5,7,Music
+G112_music HL/SL___,5,8,Music
+G112_theatre HL/SL_,6,3,Drama
+G112_theatre HL/SL_,6,4,Drama
+G112_theatre HL/SL__,1,7,Drama
+G112_theatre HL/SL__,1,8,Drama
+G112_theatre HL/SL__,2,3,Drama
+G112_theatre HL/SL__,2,4,Drama
+G112_theatre HL/SL___,5,7,Drama
+G112_theatre HL/SL___,5,8,Drama
+G112_visarts HL/SL_,6,3,Visual Arts
+G112_visarts HL/SL_,6,4,Visual Arts
+G112_visarts HL/SL__,1,7,Visual Arts
+G112_visarts HL/SL__,1,8,Visual Arts
+G112_visarts HL/SL__,2,3,Visual Arts
+G112_visarts HL/SL__,2,4,Visual Arts
+G112_visarts HL/SL___,5,7,Visual Arts
+G112_visarts HL/SL___,5,8,Visual Arts
+G11_amp1,1,1,
+G11_amp1,1,2,
+G11_amp2,1,1,
+G11_amp2,1,2,
+G11_bio HL,4,5,6-38
+G11_bio HL,4,6,6-38
+G11_bio HL/SL,3,5,6-38
+G11_bio HL/SL,3,6,6-38
+G11_bio HL/SL,5,5,6-38
+G11_bio HL/SL,5,6,6-38
+G11_bio HL/SL,7,1,6-38
+G11_bio HL/SL,7,2,6-38
+G11_busman HL,2,5,6-21
+G11_busman HL,2,6,6-21
+G11_busman HL/SL,4,7,6-21
+G11_busman HL/SL,4,8,6-21
+G11_busman HL/SL_,2,3,6-21
+G11_busman HL/SL_,2,4,6-21
+G11_busman HL/SL_,6,3,6-21
+G11_busman HL/SL_,6,4,6-21
+G11_chem HL,2,5,6-40
+G11_chem HL,2,6,6-40
+G11_chem HL/SL,4,7,6-40
+G11_chem HL/SL,4,8,6-40
+G11_chem HL/SL_,2,3,6-40
+G11_chem HL/SL_,2,4,6-40
+G11_chem HL/SL_,6,3,6-40
+G11_chem HL/SL_,6,4,6-40
+G11_chineseB HL_,1,7,6-09b
+G11_chineseB HL_,1,8,6-09b
+G11_chineseB SL/HL,3,7,6-09b
+G11_chineseB SL/HL,3,8,6-09b
+G11_chineseB SL/HL,7,7,6-09b
+G11_chineseB SL/HL,7,8,6-09b
+G11_chineseB SL/HL_,1,5,6-09b
+G11_chineseB SL/HL_,1,6,6-09b
+G11_chineseLL HL_,1,7,6-22a
+G11_chineseLL HL_,1,8,6-22a
+G11_chineseLL SL/HL,3,7,6-22a
+G11_chineseLL SL/HL,3,8,6-22a
+G11_chineseLL SL/HL,7,7,6-22a
+G11_chineseLL SL/HL,7,8,6-22a
+G11_chineseLL SL/HL_,1,5,6-22a
+G11_chineseLL SL/HL_,1,6,6-22a
+G11_cpcore_,7,5,6-17 MPR
+G11_cpcore_,7,6,6-17 MPR
+G11_designTech HL,4,5,7-16 MPR
+G11_designTech HL,4,6,7-16 MPR
+G11_designTech HL/SL,3,5,7-16 MPR
+G11_designTech HL/SL,3,6,7-16 MPR
+G11_designTech HL/SL,5,5,7-16 MPR
+G11_designTech HL/SL,5,6,7-16 MPR
+G11_designTech HL/SL,7,1,7-16 MPR
+G11_designTech HL/SL,7,2,7-16 MPR
+G11_econ HL,7,3,6-26
+G11_econ HL,7,4,6-26
+G11_econ HL/SL,2,1,6-23
+G11_econ HL/SL,2,2,6-23
+G11_econ HL/SL,3,3,6-26
+G11_econ HL/SL,3,4,6-26
+G11_econ HL/SL,6,5,6-26
+G11_econ HL/SL,6,6,6-26
+G11_english1LL HL&SL,1,3,7-12
+G11_english1LL HL&SL,1,4,7-12
+G11_english1LL HL&SL,2,7,7-12
+G11_english1LL HL&SL,2,8,7-12
+G11_english1LL HL&SL,6,7,7-12
+G11_english1LL HL&SL,6,8,7-12
+G11_english2LL SL,1,3,7-25
+G11_english2LL SL,1,4,7-25
+G11_english2LL SL,2,7,7-25
+G11_english2LL SL,2,8,7-25
+G11_english2LL SL,6,7,7-25
+G11_english2LL SL,6,8,7-25
+G11_englishB HL/SL,1,3,7-06
+G11_englishB HL/SL,1,4,7-06
+G11_englishB HL/SL,2,7,7-06
+G11_englishB HL/SL,2,8,7-06
+G11_englishB HL/SL,6,7,7-06
+G11_englishB HL/SL,6,8,7-06
+G11_englishB HL__,4,3,7-06
+G11_englishB HL__,4,4,7-06
+G11_englishLL HL__,4,3,7-12
+G11_englishLL HL__,4,4,7-12
+G11_geo HL,7,3,
+G11_geo HL,7,4,
+G11_geo HL/SL,2,1,
+G11_geo HL/SL,2,2,
+G11_geo HL/SL,3,3,
+G11_geo HL/SL,3,4,
+G11_geo HL/SL,6,5,
+G11_geo HL/SL,6,6,
+G11_history HL,7,3,6-27
+G11_history HL,7,4,6-27
+G11_history HL/SL,2,1,6-27
+G11_history HL/SL,2,2,6-27
+G11_history HL/SL,3,3,6-27
+G11_history HL/SL,3,4,6-27
+G11_history HL/SL,6,5,6-27
+G11_history HL/SL,6,6,6-27
+G11_koreanLL HL_,1,7,6-07a
+G11_koreanLL HL_,1,8,6-07a
+G11_koreanLL SL/HL,3,7,6-07a
+G11_koreanLL SL/HL,3,8,6-07a
+G11_koreanLL SL/HL,7,7,6-07a
+G11_koreanLL SL/HL,7,8,6-07a
+G11_koreanLL SL/HL_,1,5,6-07a
+G11_koreanLL SL/HL_,1,6,6-07a
+G11_malayB/LL SL,3,7,6-26
+G11_malayB/LL SL,3,8,6-26
+G11_malayB/LL SL,7,7,6-26
+G11_malayB/LL SL,7,8,6-26
+G11_malayB/LL SL_,1,5,6-26
+G11_malayB/LL SL_,1,6,6-26
+G11_mathAA HL,3,1,6-33
+G11_mathAA HL,3,2,6-33
+G11_mathAA HL,4,1,6-33
+G11_mathAA HL,4,2,6-33
+G11_mathAA HL,6,1,6-33
+G11_mathAA HL,6,2,6-33
+G11_mathAA HL_,5,7,6-33
+G11_mathAA HL_,5,8,6-33
+G11_mathAA SL,3,1,6-31
+G11_mathAA SL,3,2,6-31
+G11_mathAA SL,4,1,6-31
+G11_mathAA SL,4,2,6-31
+G11_mathAA SL,6,1,6-31
+G11_mathAA SL,6,2,6-31
+G11_mathAI SL,3,1,
+G11_mathAI SL,3,2,
+G11_mathAI SL,4,1,
+G11_mathAI SL,4,2,
+G11_mathAI SL,6,1,
+G11_mathAI SL,6,2,
+G11_physics HL,4,5,6-37
+G11_physics HL,4,6,6-37
+G11_physics HL/SL,3,5,6-37
+G11_physics HL/SL,3,6,6-37
+G11_physics HL/SL,5,5,6-37
+G11_physics HL/SL,5,6,6-37
+G11_physics HL/SL,7,1,6-37
+G11_physics HL/SL,7,2,6-37
+G11_psych HL,7,3,6-21
+G11_psych HL,7,4,6-21
+G11_psych HL/SL,2,1,6-21
+G11_psych HL/SL,2,2,6-21
+G11_psych HL/SL,3,3,6-21
+G11_psych HL/SL,3,4,6-21
+G11_psych HL/SL,6,5,6-21
+G11_psych HL/SL,6,6,6-21
+G11_spanishABI SL,3,7,6-16
+G11_spanishABI SL,3,8,6-16
+G11_spanishABI SL,7,7,6-16
+G11_spanishABI SL,7,8,6-16
+G11_spanishABI SL_,1,5,6-16
+G11_spanishABI SL_,1,6,6-16
+G11_spanishB SL,3,7,6-24
+G11_spanishB SL,3,8,6-24
+G11_spanishB SL,7,7,6-24
+G11_spanishB SL,7,8,6-24
+G11_spanishB SL_,1,5,6-24
+G11_spanishB SL_,1,6,6-24
+G11_tok1,7,5,7-12
+G11_tok1,7,6,7-12
+G11_tok1_,5,3,Lvl6 Library
+G11_tok1_,5,4,Lvl6 Library
+G11_tok2,7,5,Lvl6 Library
+G11_tok2,7,6,Lvl6 Library
+G11_tok2_,5,3,6-17 MPR
+G11_tok2_,5,4,6-17 MPR
+G11_wellness12,5,1,PE 1
+G11_wellness12,5,2,PE 1
+G12_amp1,1,1,
+G12_amp1,1,2,
+G12_amp2,1,1,
+G12_amp2,1,2,
+G12_bio HL,6,5,6-38
+G12_bio HL,6,6,6-38
+G12_bio HL/SL,2,1,6-38
+G12_bio HL/SL,2,2,6-38
+G12_bio HL/SL,6,7,6-38
+G12_bio HL/SL,6,8,6-38
+G12_bio HL/SL,7,7,6-38
+G12_bio HL/SL,7,8,6-38
+G12_busman HL,1,5,6-23
+G12_busman HL,1,6,6-23
+G12_busman HL/SL,3,1,6-21
+G12_busman HL/SL,3,2,6-21
+G12_busman HL/SL_,1,7,6-23
+G12_busman HL/SL_,1,8,6-23
+G12_busman HL/SL_,5,7,6-27
+G12_busman HL/SL_,5,8,6-27
+G12_chem HL,1,5,6-40
+G12_chem HL,1,6,6-40
+G12_chem HL/SL,3,1,6-40
+G12_chem HL/SL,3,2,6-40
+G12_chem HL/SL_,1,7,6-40
+G12_chem HL/SL_,1,8,6-40
+G12_chem HL/SL_,5,7,6-40
+G12_chem HL/SL_,5,8,6-40
+G12_chineseB HL,2,3,6-20b
+G12_chineseB HL,2,4,6-20b
+G12_chineseB SL/HL,4,5,6-20b
+G12_chineseB SL/HL,4,6,6-20b
+G12_chineseB SL/HL,7,3,6-20b
+G12_chineseB SL/HL,7,4,6-20b
+G12_chineseB SL/HL_,2,5,6-23
+G12_chineseB SL/HL_,2,6,6-23
+G12_chineseLL SL,4,5,6-22a
+G12_chineseLL SL,4,6,6-22a
+G12_chineseLL SL,7,3,6-22a
+G12_chineseLL SL,7,4,6-22a
+G12_chineseLL SL_,2,5,6-22a
+G12_chineseLL SL_,2,6,6-22a
+G12_cpcore,4,7,7-16 MPR
+G12_cpcore,4,8,7-16 MPR
+G12_designTech HL,6,5,7-16 MPR
+G12_designTech HL,6,6,7-16 MPR
+G12_designTech HL/SL,2,1,7-16 MPR
+G12_designTech HL/SL,2,2,7-16 MPR
+G12_designTech HL/SL,6,7,7-16 MPR
+G12_designTech HL/SL,6,8,7-16 MPR
+G12_designTech HL/SL,7,7,7-16 MPR
+G12_designTech HL/SL,7,8,7-16 MPR
+G12_econ HL,1,3,6-26
+G12_econ HL,1,4,6-26
+G12_econ HL/SL,4,1,6-26
+G12_econ HL/SL,4,2,6-26
+G12_econ HL/SL,5,3,6-23
+G12_econ HL/SL,5,4,6-23
+G12_econ HL/SL,7,5,6-23
+G12_econ HL/SL,7,6,6-23
+G12_english1LL HL&SL,3,5,7-12
+G12_english1LL HL&SL,3,6,7-12
+G12_english1LL HL&SL,6,1,7-12
+G12_english1LL HL&SL,6,2,7-12
+G12_english1LL HL&SL,7,1,7-12
+G12_english1LL HL&SL,7,2,7-12
+G12_english2LL SL,3,5,7-29
+G12_english2LL SL,3,6,7-29
+G12_english2LL SL,6,1,7-29
+G12_english2LL SL,6,2,7-29
+G12_english2LL SL,7,1,7-29
+G12_english2LL SL,7,2,7-29
+G12_englishB HL,5,1,7-06
+G12_englishB HL,5,2,7-06
+G12_englishB HL/SL,3,5,7-06
+G12_englishB HL/SL,3,6,7-06
+G12_englishB HL/SL,6,1,7-06
+G12_englishB HL/SL,6,2,7-06
+G12_englishB HL/SL,7,1,7-06
+G12_englishB HL/SL,7,2,7-06
+G12_englishLL HL,5,1,7-12
+G12_englishLL HL,5,2,7-12
+G12_geo HL,1,3,6-23
+G12_geo HL,1,4,6-23
+G12_geo HL/SL,4,1,6-19 MPR
+G12_geo HL/SL,4,2,6-19 MPR
+G12_geo HL/SL,5,3,6-24
+G12_geo HL/SL,5,4,6-24
+G12_geo HL/SL,7,5,6-26
+G12_geo HL/SL,7,6,6-26
+G12_history HL,1,3,6-27
+G12_history HL,1,4,6-27
+G12_history HL/SL,4,1,6-27
+G12_history HL/SL,4,2,6-27
+G12_history HL/SL,5,3,6-27
+G12_history HL/SL,5,4,6-27
+G12_history HL/SL,7,5,6-27
+G12_history HL/SL,7,6,6-27
+G12_koreanLL HL,2,3,6-07a
+G12_koreanLL HL,2,4,6-07a
+G12_koreanLL SL,4,5,6-07a
+G12_koreanLL SL,4,6,6-07a
+G12_koreanLL SL,7,3,6-07a
+G12_koreanLL SL,7,4,6-07a
+G12_koreanLL SL_,2,5,6-07a
+G12_koreanLL SL_,2,6,6-07a
+G12_malayB/LL SL,4,5,6-24
+G12_malayB/LL SL,4,6,6-24
+G12_malayB/LL SL,7,3,6-24
+G12_malayB/LL SL,7,4,6-24
+G12_malayB/LL SL_,2,5,6-26
+G12_malayB/LL SL_,2,6,6-26
+G12_mathAA HL,2,7,6-33
+G12_mathAA HL,2,8,6-33
+G12_mathAA HL,3,3,6-33
+G12_mathAA HL,3,4,6-33
+G12_mathAA HL,5,5,6-33
+G12_mathAA HL,5,6,6-33
+G12_mathAA HL_,6,3,6-33
+G12_mathAA HL_,6,4,6-33
+G12_mathAA SL,2,7,6-31
+G12_mathAA SL,2,8,6-31
+G12_mathAA SL,3,3,6-31
+G12_mathAA SL,3,4,6-31
+G12_mathAA SL,5,5,6-31
+G12_mathAA SL,5,6,6-31
+G12_mathAI SL,2,7,6-29
+G12_mathAI SL,2,8,6-29
+G12_mathAI SL,3,3,6-29
+G12_mathAI SL,3,4,6-29
+G12_mathAI SL,5,5,6-29
+G12_mathAI SL,5,6,6-29
+G12_physics HL,6,5,6-37
+G12_physics HL,6,6,6-37
+G12_physics HL/SL,2,1,6-37
+G12_physics HL/SL,2,2,6-37
+G12_physics HL/SL,6,7,6-37
+G12_physics HL/SL,6,8,6-37
+G12_physics HL/SL,7,7,6-37
+G12_physics HL/SL,7,8,6-37
+G12_psych HL,1,3,6-21
+G12_psych HL,1,4,6-21
+G12_psych HL/SL,4,1,6-21
+G12_psych HL/SL,4,2,6-21
+G12_psych HL/SL,5,3,6-21
+G12_psych HL/SL,5,4,6-21
+G12_psych HL/SL,7,5,6-21
+G12_psych HL/SL,7,6,6-21
+G12_spanishABI SL,4,5,6-16
+G12_spanishABI SL,4,6,6-16
+G12_spanishABI SL,7,3,6-16
+G12_spanishABI SL,7,4,6-16
+G12_spanishABI SL_,2,5,6-16
+G12_spanishABI SL_,2,6,6-16
+G12_tok1,4,7,7-12
+G12_tok1,4,8,7-12
+G12_tok1_,3,7,6-17 MPR
+G12_tok1_,3,8,6-17 MPR
+G12_tok2,4,7,6-24
+G12_tok2,4,8,6-24
+G12_tok2_,3,7,6-27
+G12_tok2_,3,8,6-27
+G12_wellness12,4,3,PE 3
+G12_wellness12,4,4,PE 3
+G190__cchhiineneses e 1&1&22,3,5,6-09b
+G190__cchhiineneses e 1&1&22,3,6,6-09b
+G190__cchhiineneses e 1&1&22,4,3,6-09b
+G190__cchhiineneses e 1&1&22,4,4,6-09b
+G190__cchhiineneses e 1&1&22,6,1,6-09b
+G190__cchhiineneses e 1&1&22,6,2,6-09b
+G190__cchhiineneses e 33,3,1,6-20b
+G190__cchhiineneses e 33,3,2,6-20b
+G190__cchhiineneses e 33,5,1,6-20b
+G190__cchhiineneses e 33,5,2,6-20b
+G190__cchhiineneses e 33,7,1,6-20b
+G190__cchhiineneses e 33,7,2,6-20b
+G190__cchhiineneses e 4&4&55,3,1,6-22a
+G190__cchhiineneses e 4&4&55,3,2,6-22a
+G190__cchhiineneses e 4&4&55,5,1,6-22a
+G190__cchhiineneses e 4&4&55,5,2,6-22a
+G190__cchhiineneses e 4&4&55,7,1,6-22a
+G190__cchhiineneses e 4&4&55,7,2,6-22a
+G190__cchhiinenesesLeLL,3,5,6-22a
+G190__cchhiinenesesLeLL,3,6,6-22a
+G190__cchhiinenesesLeLL,4,3,6-22a
+G190__cchhiinenesesLeLL,4,4,6-22a
+G190__cchhiinenesesLeLL,6,1,6-22a
+G190__cchhiinenesesLeLL,6,2,6-22a
+G190__eengnglal a 3&3&44,1,5,7-04
+G190__eengnglal a 3&3&44,1,6,7-04
+G190__eengnglal a 3&3&44,4,5,7-04
+G190__eengnglal a 3&3&44,4,6,7-04
+G190__eengnglal a 3&3&44,5,7,7-04
+G190__eengnglal a 3&3&44,5,8,7-04
+G190__eengnglal a 5&5&66,1,5,7-06
+G190__eengnglal a 5&5&66,1,6,7-06
+G190__eengnglal a 5&5&66,4,5,7-06
+G190__eengnglal a 5&5&66,4,6,7-06
+G190__eengnglal a 5&5&66,5,7,7-06
+G190__eengnglal a 5&5&66,5,8,7-06
+G190__kkooreraeanLnLL,3,1,6-09b
+G190__kkooreraeanLnLL,3,2,6-09b
+G190__kkooreraeanLnLL,5,1,6-09b
+G190__kkooreraeanLnLL,5,2,6-09b
+G190__kkooreraeanLnLL,7,1,6-09b
+G190__kkooreraeanLnLL,7,2,6-09b
+G190__spsapaninishs h 1&1&22,3,5,6-16
+G190__spsapaninishs h 1&1&22,3,6,6-16
+G190__spsapaninishs h 1&1&22,4,3,6-16
+G190__spsapaninishs h 1&1&22,4,4,6-16
+G190__spsapaninishs h 1&1&22,6,1,6-16
+G190__spsapaninishs h 1&1&22,6,2,6-16
+G190__spsapaninishs h 2&2&33,3,1,6-24
+G190__spsapaninishs h 2&2&33,3,2,6-24
+G190__spsapaninishs h 2&2&33,5,1,6-24
+G190__spsapaninishs h 2&2&33,5,2,6-24
+G190__spsapaninishs h 2&2&33,7,1,6-24
+G190__spsapaninishs h 2&2&33,7,2,6-24
+G6_ESOL,1,3,7-04
+G6_ESOL,1,4,7-04
+G6_ESOL,6,3,7-04
+G6_ESOL,6,4,7-04
+G6_ESOL,7,5,7-04
+G6_ESOL,7,6,7-04
+G6_amp1,1,1,
+G6_amp1,1,2,
+G6_amp2,1,1,
+G6_amp2,1,2,
+G6_chinese 1,1,3,6-20b
+G6_chinese 1,1,4,6-20b
+G6_chinese 1,6,3,6-20b
+G6_chinese 1,6,4,6-20b
+G6_chinese 1,7,5,6-20b
+G6_chinese 1,7,6,6-20b
+G6_chinese 1&2,1,3,6-09b
+G6_chinese 1&2,1,4,6-09b
+G6_chinese 1&2,6,3,6-09b
+G6_chinese 1&2,6,4,6-09b
+G6_chinese 1&2,7,5,6-09b
+G6_chinese 1&2,7,6,6-09b
+G6_design1,2,3,7-08
+G6_design1,2,4,7-08
+G6_design1,3,1,7-08
+G6_design1,3,2,7-08
+G6_design1,5,7,7-08
+G6_design1,5,8,7-08
+G6_design2,2,3,6-23
+G6_design2,2,4,6-23
+G6_design2,3,1,7-06
+G6_design2,3,2,7-06
+G6_design2,5,7,6-18
+G6_design2,5,8,6-18
+G6_english 1&2,4,1,7-04
+G6_english 1&2,4,2,7-04
+G6_english 1&2,5,5,7-04
+G6_english 1&2,5,6,7-04
+G6_english 1&2,7,3,7-04
+G6_english 1&2,7,4,7-04
+G6_english 3&4&5,4,1,7-06
+G6_english 3&4&5,4,2,7-06
+G6_english 3&4&5,5,5,7-06
+G6_english 3&4&5,5,6,7-06
+G6_english 3&4&5,7,3,7-06
+G6_english 3&4&5,7,4,7-06
+G6_englishLL,4,1,7-29
+G6_englishLL,4,2,7-29
+G6_englishLL,5,5,7-29
+G6_englishLL,5,6,7-29
+G6_englishLL,7,3,7-29
+G6_englishLL,7,4,7-29
+G6_indsoc1,1,7,6-21
+G6_indsoc1,1,8,6-21
+G6_indsoc1,4,5,6-21
+G6_indsoc1,4,6,6-21
+G6_indsoc1,6,7,6-21
+G6_indsoc1,6,8,6-21
+G6_indsoc2,1,7,6-24
+G6_indsoc2,1,8,6-24
+G6_indsoc2,4,5,6-23
+G6_indsoc2,4,6,6-23
+G6_indsoc2,6,7,6-24
+G6_indsoc2,6,8,6-24
+G6_innovations1,4,7,PE 1
+G6_innovations1,4,8,PE 1
+G6_math1,2,1,6-33
+G6_math1,2,2,6-33
+G6_math1,3,5,6-26
+G6_math1,3,6,6-33
+G6_math1,4,3,6-33
+G6_math1,4,4,6-33
+G6_math1,5,1,6-26
+G6_math1,5,2,6-33
+G6_math2,2,1,6-31
+G6_math2,2,2,6-26
+G6_math2,3,5,6-31
+G6_math2,3,6,6-31
+G6_math2,4,3,6-26
+G6_math2,4,4,6-31
+G6_math2,5,1,6-31
+G6_math2,5,2,6-31
+G6_perfarts2,3,3,Visual Arts
+G6_perfarts2,3,4,Visual Arts
+G6_perfarts2,5,3,Drama
+G6_perfarts2,5,4,Drama
+G6_perfarts2,6,5,Music
+G6_perfarts2,6,6,Music
+G6_phe1,1,5,PE 4
+G6_phe1,1,6,PE 4
+G6_phe1,2,5,PE 3
+G6_phe1,2,6,PE 3
+G6_phe1,7,1,PE 3
+G6_phe1,7,2,PE 3
+G6_phe2,1,5,PE 1
+G6_phe2,1,6,PE 1
+G6_phe2,2,5,PE 4
+G6_phe2,2,6,PE 4
+G6_phe2,7,1,PE 2
+G6_phe2,7,2,PE 2
+G6_science1,2,7,6-37
+G6_science1,2,8,6-37
+G6_science1,3,7,6-37
+G6_science1,3,8,6-37
+G6_science1,6,1,6-37
+G6_science1,6,2,6-37
+G6_science2,2,7,6-40
+G6_science2,2,8,6-40
+G6_science2,3,7,6-38
+G6_science2,3,8,6-38
+G6_science2,6,1,6-40
+G6_science2,6,2,6-40
+G6_spanish 1,1,3,6-16
+G6_spanish 1,1,4,6-16
+G6_spanish 1,6,3,6-16
+G6_spanish 1,6,4,6-16
+G6_spanish 1,7,5,6-16
+G6_spanish 1,7,6,6-16
+G6_visarts1,3,3,Drama
+G6_visarts1,3,4,Drama
+G6_visarts1,5,3,Music
+G6_visarts1,5,4,Music
+G6_visarts1,6,5,Visual Arts
+G6_visarts1,6,6,Visual Arts
+G6_wellness1,7,7,PE 1
+G6_wellness1,7,8,PE 1
+G78_ESOL--,2,1,7-04
+G78_ESOL--,2,2,7-04
+G78_ESOL--,5,3,7-04
+G78_ESOL--,5,4,7-04
+G78_ESOL--,6,7,7-04
+G78_ESOL--,6,8,7-04
+G78_chinese 1&2--,2,1,6-09b
+G78_chinese 1&2--,2,2,6-09b
+G78_chinese 1&2--,5,3,6-09b
+G78_chinese 1&2--,5,4,6-09b
+G78_chinese 1&2--,6,7,6-09b
+G78_chinese 1&2--,6,8,6-09b
+G78_chinese 1-,2,7,6-20b
+G78_chinese 1-,2,8,6-20b
+G78_chinese 1-,4,1,6-20b
+G78_chinese 1-,4,2,6-20b
+G78_chinese 1-,5,5,6-20b
+G78_chinese 1-,5,6,6-20b
+G78_chinese 2&3--,2,1,6-22a
+G78_chinese 2&3--,2,2,6-22a
+G78_chinese 2&3--,5,3,6-22a
+G78_chinese 2&3--,5,4,6-22a
+G78_chinese 2&3--,6,7,6-22a
+G78_chinese 2&3--,6,8,6-22a
+G78_chinese 5&6--,2,1,6-20b
+G78_chinese 5&6--,2,2,6-20b
+G78_chinese 5&6--,5,3,6-20b
+G78_chinese 5&6--,5,4,6-20b
+G78_chinese 5&6--,6,7,6-20b
+G78_chinese 5&6--,6,8,6-20b
+G78_engla 1&2,2,5,7-06
+G78_engla 1&2,2,6,7-06
+G78_engla 1&2,3,3,7-06
+G78_engla 1&2,3,4,7-06
+G78_engla 1&2,6,5,7-06
+G78_engla 1&2,6,6,7-06
+G78_engla 3&4&5,2,5,7-04
+G78_engla 3&4&5,2,6,7-04
+G78_engla 3&4&5,3,3,7-04
+G78_engla 3&4&5,3,4,7-04
+G78_engla 3&4&5,6,5,7-04
+G78_engla 3&4&5,6,6,7-04
+G78_spanish 1&2-,2,7,6-16
+G78_spanish 1&2-,2,8,6-16
+G78_spanish 1&2-,4,1,6-16
+G78_spanish 1&2-,4,2,6-16
+G78_spanish 1&2-,5,5,6-16
+G78_spanish 1&2-,5,6,6-16
+G78_spanish 1&2--,2,1,6-16
+G78_spanish 1&2--,2,2,6-16
+G78_spanish 1&2--,5,3,6-16
+G78_spanish 1&2--,5,4,6-16
+G78_spanish 1&2--,6,7,6-16
+G78_spanish 1&2--,6,8,6-16
+G7_amp1,1,1,6-19 MPR
+G7_amp1,1,2,6-19 MPR
+G7_amp2,1,1,7-16 MPR
+G7_amp2,1,2,7-16 MPR
+G7_design1-,2,7,7-14 MPR
+G7_design1-,2,8,7-14 MPR
+G7_design1-,4,1,7-16 MPR
+G7_design1-,4,2,7-16 MPR
+G7_design1-,5,5,7-14 MPR
+G7_design1-,5,6,7-14 MPR
+G7_design2--,2,1,7-18 MPR
+G7_design2--,2,2,7-18 MPR
+G7_design2--,5,3,7-14 MPR
+G7_design2--,5,4,7-14 MPR
+G7_design2--,6,7,7-14 MPR
+G7_design2--,6,8,7-14 MPR
+G7_english1LL,2,5,7-29
+G7_english1LL,2,6,7-29
+G7_english1LL,3,3,7-29
+G7_english1LL,3,4,7-29
+G7_english1LL,6,5,7-29
+G7_english1LL,6,6,7-29
+G7_english2LL,2,5,7-25
+G7_english2LL,2,6,7-25
+G7_english2LL,3,3,7-25
+G7_english2LL,3,4,7-25
+G7_english2LL,6,5,7-25
+G7_english2LL,6,6,7-25
+G7_hostnations1,1,8,
+G7_hostnations1,4,5,
+G7_hostnations2,1,8,6-26
+G7_hostnations2,4,5,6-26
+G7_indsoc1,2,3,6-19 MPR
+G7_indsoc1,2,4,6-19 MPR
+G7_indsoc1,6,3,6-23
+G7_indsoc1,6,4,6-23
+G7_indsoc1,7,3,6-23
+G7_indsoc1,7,4,6-23
+G7_indsoc2,2,3,7-25
+G7_indsoc2,2,4,7-25
+G7_indsoc2,6,3,7-25
+G7_indsoc2,6,4,7-25
+G7_indsoc2,7,3,7-25
+G7_indsoc2,7,4,7-25
+G7_innovations2,4,7,PE 1
+G7_innovations2,4,8,PE 1
+G7_math1,1,7,
+G7_math1,3,7,
+G7_math1,3,8,
+G7_math1,4,6,
+G7_math1,7,1,
+G7_math1,7,2,
+G7_math2,1,7,6-33
+G7_math2,3,7,6-33
+G7_math2,3,8,6-33
+G7_math2,4,6,6-33
+G7_math2,7,1,6-33
+G7_math2,7,2,6-33
+G7_perfarts,3,1,Visual Arts
+G7_perfarts,3,2,Visual Arts
+G7_perfarts,4,3,Music
+G7_perfarts,4,4,Music
+G7_perfarts,6,1,Music
+G7_perfarts,6,2,Music
+G7_phe1,1,3,PE 3
+G7_phe1,1,4,PE 3
+G7_phe1,3,5,PE 3
+G7_phe1,3,6,PE 3
+G7_phe1,5,1,PE 2
+G7_phe1,5,2,PE 2
+G7_phe2,1,3,PE 2
+G7_phe2,1,4,PE 2
+G7_phe2,3,5,PE 2
+G7_phe2,3,6,PE 2
+G7_phe2,5,1,PE 4
+G7_phe2,5,2,PE 4
+G7_science1,1,5,6-38
+G7_science1,1,6,6-38
+G7_science1,5,7,6-37
+G7_science1,5,8,6-37
+G7_science1,7,5,6-38
+G7_science1,7,6,6-38
+G7_science2,1,5,6-37
+G7_science2,1,6,6-37
+G7_science2,5,7,6-38
+G7_science2,5,8,6-38
+G7_science2,7,5,6-37
+G7_science2,7,6,6-37
+G7_visarts,3,1,Drama
+G7_visarts,3,2,Drama
+G7_visarts,4,3,Drama
+G7_visarts,4,4,Drama
+G7_visarts,6,1,Drama
+G7_visarts,6,2,Drama
+G7_wellness2,7,7,PE 1
+G7_wellness2,7,8,PE 1
+G8_amp1,1,1,
+G8_amp1,1,2,
+G8_amp2,1,1,
+G8_amp2,1,2,
+G8_chinese LL--,2,1,7-06
+G8_chinese LL--,2,2,7-06
+G8_chinese LL--,5,3,7-18 MPR
+G8_chinese LL--,5,4,7-18 MPR
+G8_chinese LL--,6,7,6-15 MPR
+G8_chinese LL--,6,8,6-15 MPR
+G8_design1-,2,7,7-16 MPR
+G8_design1-,2,8,7-16 MPR
+G8_design1-,4,1,7-14 MPR
+G8_design1-,4,2,7-14 MPR
+G8_design1-,5,5,7-18 MPR
+G8_design1-,5,6,7-18 MPR
+G8_design2--,2,1,7-14 MPR
+G8_design2--,2,2,7-14 MPR
+G8_design2--,5,3,7-16 MPR
+G8_design2--,5,4,7-16 MPR
+G8_design2--,6,7,7-18 MPR
+G8_design2--,6,8,7-18 MPR
+G8_english1LL,2,5,7-21 MPR
+G8_english1LL,2,6,7-21 MPR
+G8_english1LL,3,3,7-21 MPR
+G8_english1LL,3,4,7-21 MPR
+G8_english1LL,6,5,7-21 MPR
+G8_english1LL,6,6,7-21 MPR
+G8_english2LL,2,5,7-12
+G8_english2LL,2,6,7-12
+G8_english2LL,3,3,7-12
+G8_english2LL,3,4,7-12
+G8_english2LL,6,5,7-12
+G8_english2LL,6,6,7-12
+G8_hostnations1,3,6,6-24
+G8_hostnations1,6,3,6-24
+G8_hostnations2,3,6,6-26
+G8_hostnations2,6,3,6-26
+G8_indsoc1,3,7,6-21
+G8_indsoc1,3,8,6-21
+G8_indsoc1,5,7,6-21
+G8_indsoc1,5,8,6-21
+G8_indsoc1,7,1,6-21
+G8_indsoc1,7,2,6-21
+G8_indsoc2,3,7,6-23
+G8_indsoc2,3,8,6-23
+G8_indsoc2,5,7,6-19 MPR
+G8_indsoc2,5,8,6-19 MPR
+G8_indsoc2,7,1,6-19 MPR
+G8_indsoc2,7,2,6-19 MPR
+G8_innovations1,4,7,PE 1
+G8_innovations1,4,8,PE 1
+G8_maths1,1,3,
+G8_maths1,1,4,
+G8_maths1,3,5,
+G8_maths1,5,1,
+G8_maths1,5,2,
+G8_maths1,6,4,
+G8_maths2,1,3,6-29
+G8_maths2,1,4,6-29
+G8_maths2,3,5,6-29
+G8_maths2,5,1,6-29
+G8_maths2,5,2,6-29
+G8_maths2,6,4,6-29
+G8_perfarts,1,5,Drama
+G8_perfarts,1,6,Drama
+G8_perfarts,4,5,Visual Arts
+G8_perfarts,4,6,Visual Arts
+G8_perfarts,7,3,Visual Arts
+G8_perfarts,7,4,Visual Arts
+G8_phe1,3,1,PE 2
+G8_phe1,3,2,PE 2
+G8_phe1,6,1,PE 3
+G8_phe1,6,2,PE 3
+G8_phe1,7,5,PE 1
+G8_phe1,7,6,PE 1
+G8_phe2,3,1,PE 3
+G8_phe2,3,2,PE 3
+G8_phe2,6,1,PE 2
+G8_phe2,6,2,PE 2
+G8_phe2,7,5,PE 3
+G8_phe2,7,6,PE 3
+G8_science1,1,7,6-37
+G8_science1,1,8,6-37
+G8_science1,2,3,6-37
+G8_science1,2,4,6-37
+G8_science1,4,3,6-40
+G8_science1,4,4,6-40
+G8_science2,1,7,6-38
+G8_science2,1,8,6-38
+G8_science2,2,3,6-38
+G8_science2,2,4,6-38
+G8_science2,4,3,6-38
+G8_science2,4,4,6-38
+G8_visarts,1,5,Visual Arts
+G8_visarts,1,6,Visual Arts
+G8_visarts,4,5,Drama
+G8_visarts,4,6,Drama
+G8_visarts,7,3,Music
+G8_visarts,7,4,Music
+G8_wellness1,7,7,PE 1
+G8_wellness1,7,8,PE 1
+G9_amp1,1,1,
+G9_amp1,1,2,
+G9_amp2,1,1,
+G9_amp2,1,2,
+G9_design1,1,3,7-14 MPR
+G9_design1,1,4,7-14 MPR
+G9_design1,3,7,7-16 MPR
+G9_design1,3,8,7-16 MPR
+G9_design1,6,3,7-14 MPR
+G9_design1,6,4,7-14 MPR
+G9_design2,1,3,7-16 MPR
+G9_design2,1,4,7-16 MPR
+G9_design2,3,7,7-14 MPR
+G9_design2,3,8,7-14 MPR
+G9_design2,6,3,7-18 MPR
+G9_design2,6,4,7-18 MPR
+G9_drama,2,5,Visual Arts
+G9_drama,2,6,Visual Arts
+G9_drama,4,1,Drama
+G9_drama,4,2,Drama
+G9_drama,7,5,Drama
+G9_drama,7,6,Drama
+G9_english1LL,1,5,7-29
+G9_english1LL,1,6,7-29
+G9_english1LL,4,5,7-29
+G9_english1LL,4,6,7-29
+G9_english1LL,5,7,7-29
+G9_english1LL,5,8,7-29
+G9_english2LL,1,5,7-21 MPR
+G9_english2LL,1,6,7-21 MPR
+G9_english2LL,4,5,7-21 MPR
+G9_english2LL,4,6,7-21 MPR
+G9_english2LL,5,7,7-21 MPR
+G9_english2LL,5,8,7-21 MPR
+G9_hostnations1,5,5,6-26
+G9_hostnations1,5,6,6-26
+G9_hostnations2,2,1,6-24
+G9_hostnations2,2,1,6-40
+G9_hostnations2,2,2,6-24
+G9_hostnations2,2,2,6-40
+G9_indsoc1,3,1,7-25
+G9_indsoc1,3,2,7-25
+G9_indsoc1,5,1,7-25
+G9_indsoc1,5,2,7-25
+G9_indsoc1,7,1,7-25
+G9_indsoc1,7,2,7-25
+G9_indsoc2,3,5,6-27
+G9_indsoc2,3,6,6-27
+G9_indsoc2,4,3,6-21
+G9_indsoc2,4,4,6-21
+G9_indsoc2,6,1,6-23
+G9_indsoc2,6,2,6-23
+G9_innovations2,4,7,PE 1
+G9_innovations2,4,8,PE 1
+G9_mathextended,1,7,6-31
+G9_mathextended,1,8,6-31
+G9_mathextended,2,3,6-31
+G9_mathextended,2,4,6-31
+G9_mathextended,6,5,6-31
+G9_mathextended,6,6,6-31
+G9_mathstandard,1,7,6-29
+G9_mathstandard,1,8,6-29
+G9_mathstandard,2,3,6-29
+G9_mathstandard,2,4,6-29
+G9_mathstandard,6,5,6-29
+G9_mathstandard,6,6,6-29
+G9_music,2,5,Drama
+G9_music,2,6,Drama
+G9_music,4,1,Visual Arts
+G9_music,4,2,Visual Arts
+G9_music,7,5,Visual Arts
+G9_music,7,6,Visual Arts
+G9_phe1,2,7,PE 1
+G9_phe1,2,8,PE 1
+G9_phe1,5,3,PE 2
+G9_phe1,5,4,PE 2
+G9_phe1,6,7,PE 1
+G9_phe1,6,8,PE 1
+G9_phe2,2,7,PE 2
+G9_phe2,2,8,PE 2
+G9_phe2,5,3,PE 4
+G9_phe2,5,4,PE 4
+G9_phe2,6,7,PE 3
+G9_phe2,6,8,PE 3
+G9_science1,3,3,6-40
+G9_science1,3,4,6-40
+G9_science1,7,3,6-37
+G9_science1,7,4,6-37
+G9_science1_,5,5,6-40
+G9_science1_,5,6,6-40
+G9_science2,3,3,6-38
+G9_science2,3,4,6-38
+G9_science2,7,3,6-40
+G9_science2,7,4,6-40
+G9_visarts,2,5,Music
+G9_visarts,2,6,Music
+G9_visarts,4,1,Music
+G9_visarts,4,2,Music
+G9_visarts,7,5,Music
+G9_visarts,7,6,Music
+G9_wellness2,7,7,PE 1
+G9_wellness2,7,8,PE 1
+Grade 1_Entire class,1,7,
+Grade 1_Entire class,2,4,
+Grade 1_Entire class,4,8,
+Grade 1_Entire class,5,6,
+Grade 1_Entire class,6,3,
+Grade 1_Entire class,7,8,
+Grade 1_PYP1,1,2,
+Grade 1_PYP1,1,3,
+Grade 1_PYP1,1,4,
+Grade 1_PYP1,1,5,
+Grade 1_PYP1,2,6,
+Grade 1_PYP1,2,7,
+Grade 1_PYP1,3,1,
+Grade 1_PYP1,3,4,
+Grade 1_PYP1,3,5,
+Grade 1_PYP1,3,8,
+Grade 1_PYP1,4,3,
+Grade 1_PYP1,4,7,
+Grade 1_PYP1,5,3,
+Grade 1_PYP1,5,7,
+Grade 1_PYP1,5,8,
+Grade 1_PYP1,6,4,
+Grade 1_PYP1,6,5,
+Grade 1_PYP1,6,7,
+Grade 1_PYP1,7,5,
+Grade 1_PYP2,1,2,
+Grade 1_PYP2,1,3,
+Grade 1_PYP2,1,4,
+Grade 1_PYP2,1,5,
+Grade 1_PYP2,2,6,
+Grade 1_PYP2,2,7,
+Grade 1_PYP2,3,1,
+Grade 1_PYP2,3,4,
+Grade 1_PYP2,3,5,
+Grade 1_PYP2,3,8,
+Grade 1_PYP2,4,3,
+Grade 1_PYP2,4,7,
+Grade 1_PYP2,5,3,
+Grade 1_PYP2,5,7,
+Grade 1_PYP2,5,8,
+Grade 1_PYP2,6,4,
+Grade 1_PYP2,6,5,
+Grade 1_PYP2,6,7,
+Grade 1_PYP2,7,5,
+Grade 1_Specialist1,1,1,
+Grade 1_Specialist1,1,8,Elem Vis Arts
+Grade 1_Specialist1,2,1,Elem Vis Arts
+Grade 1_Specialist1,2,2,PE 3
+Grade 1_Specialist1,2,5,
+Grade 1_Specialist1,3,6,
+Grade 1_Specialist1,4,1,PE 4
+Grade 1_Specialist1,4,5,Elem Vis Arts
+Grade 1_Specialist1,4,6,
+Grade 1_Specialist1,5,4,Elem Vis Arts
+Grade 1_Specialist1,5,5,
+Grade 1_Specialist1,6,1,PE 1
+Grade 1_Specialist1,6,2,
+Grade 1_Specialist1,7,1,E
+Grade 1_Specialist1,7,3,PE 2
+Grade 1_Specialist2,1,6,Elem Vis Arts
+Grade 1_Specialist2,2,3,E
+Grade 1_Specialist2,2,8,PE 4
+Grade 1_Specialist2,3,2,
+Grade 1_Specialist2,3,3,
+Grade 1_Specialist2,3,7,Elem Vis Arts
+Grade 1_Specialist2,4,2,PE 2
+Grade 1_Specialist2,4,4,
+Grade 1_Specialist2,5,2,Elem Vis Arts
+Grade 1_Specialist2,6,6,
+Grade 1_Specialist2,6,8,PE 4
+Grade 1_Specialist2,7,2,
+Grade 1_Specialist2,7,4,
+Grade 1_Specialist2,7,6,Elem Vis Arts
+Grade 1_Specialist2,7,7,PE 2
+Grade 1_pyp1,1,1,
+Grade 1_pyp1,1,8,
+Grade 1_pyp1,2,1,
+Grade 1_pyp1,2,2,
+Grade 1_pyp1,2,5,
+Grade 1_pyp1,3,6,
+Grade 1_pyp1,4,1,
+Grade 1_pyp1,4,5,
+Grade 1_pyp1,4,6,
+Grade 1_pyp1,5,4,
+Grade 1_pyp1,5,5,
+Grade 1_pyp1,6,1,
+Grade 1_pyp1,6,2,
+Grade 1_pyp1,7,1,
+Grade 1_pyp1,7,3,
+Grade 1_pyp2,1,6,
+Grade 1_pyp2,2,3,
+Grade 1_pyp2,2,8,
+Grade 1_pyp2,3,2,
+Grade 1_pyp2,3,3,
+Grade 1_pyp2,3,7,
+Grade 1_pyp2,4,2,
+Grade 1_pyp2,4,4,
+Grade 1_pyp2,5,2,
+Grade 1_pyp2,6,6,
+Grade 1_pyp2,6,8,
+Grade 1_pyp2,7,2,
+Grade 1_pyp2,7,4,
+Grade 1_pyp2,7,6,
+Grade 1_pyp2,7,7,
+Grade 2_Entire class,1,5,
+Grade 2_Entire class,2,3,
+Grade 2_Entire class,3,8,
+Grade 2_Entire class,4,7,
+Grade 2_Entire class,5,7,
+Grade 2_Entire class,6,4,
+Grade 2_Group 1,1,1,PE 2
+Grade 2_Group 1,1,2,
+Grade 2_Group 1,1,3,
+Grade 2_Group 1,1,4,
+Grade 2_Group 1,1,6,
+Grade 2_Group 1,1,7,
+Grade 2_Group 1,1,8,
+Grade 2_Group 1,2,1,
+Grade 2_Group 1,2,2,
+Grade 2_Group 1,2,4,
+Grade 2_Group 1,2,5,Elem Vis Arts
+Grade 2_Group 1,2,6,PE 1
+Grade 2_Group 1,2,7,
+Grade 2_Group 1,3,1,
+Grade 2_Group 1,3,2,
+Grade 2_Group 1,3,3,
+Grade 2_Group 1,3,4,
+Grade 2_Group 1,3,5,
+Grade 2_Group 1,3,6,
+Grade 2_Group 1,3,7,
+Grade 2_Group 1,4,1,E
+Grade 2_Group 1,4,2,
+Grade 2_Group 1,4,3,
+Grade 2_Group 1,4,4,
+Grade 2_Group 1,4,5,
+Grade 2_Group 1,4,6,
+Grade 2_Group 1,4,8,
+Grade 2_Group 1,5,2,
+Grade 2_Group 1,5,3,
+Grade 2_Group 1,5,4,
+Grade 2_Group 1,5,5,
+Grade 2_Group 1,5,6,
+Grade 2_Group 1,5,8,
+Grade 2_Group 1,6,1,
+Grade 2_Group 1,6,2,
+Grade 2_Group 1,6,3,
+Grade 2_Group 1,6,5,Elem Vis Arts
+Grade 2_Group 1,6,6,
+Grade 2_Group 1,6,7,PE 2
+Grade 2_Group 1,6,8,
+Grade 2_Group 1,7,1,PE 1
+Grade 2_Group 1,7,2,
+Grade 2_Group 1,7,3,
+Grade 2_Group 1,7,4,
+Grade 2_Group 1,7,5,
+Grade 2_Group 1,7,6,
+Grade 2_Group 1,7,7,
+Grade 2_Group 1,7,8,Elem Vis Arts
+Grade 2_Group 2,1,1,
+Grade 2_Group 2,1,2,
+Grade 2_Group 2,1,3,
+Grade 2_Group 2,1,4,
+Grade 2_Group 2,1,6,
+Grade 2_Group 2,1,7,
+Grade 2_Group 2,1,8,
+Grade 2_Group 2,2,1,
+Grade 2_Group 2,2,2,
+Grade 2_Group 2,2,4,
+Grade 2_Group 2,2,5,PE 1
+Grade 2_Group 2,2,6,Elem Vis Arts
+Grade 2_Group 2,2,7,
+Grade 2_Group 2,3,1,PE 4
+Grade 2_Group 2,3,2,
+Grade 2_Group 2,3,3,Elem Vis Arts
+Grade 2_Group 2,3,4,
+Grade 2_Group 2,3,5,
+Grade 2_Group 2,3,6,
+Grade 2_Group 2,3,7,
+Grade 2_Group 2,4,1,Elem Vis Arts
+Grade 2_Group 2,4,2,
+Grade 2_Group 2,4,3,
+Grade 2_Group 2,4,4,
+Grade 2_Group 2,4,5,PE 2
+Grade 2_Group 2,4,6,
+Grade 2_Group 2,4,8,
+Grade 2_Group 2,5,2,
+Grade 2_Group 2,5,3,
+Grade 2_Group 2,5,4,
+Grade 2_Group 2,5,5,
+Grade 2_Group 2,5,6,
+Grade 2_Group 2,5,8,
+Grade 2_Group 2,6,1,
+Grade 2_Group 2,6,2,
+Grade 2_Group 2,6,3,
+Grade 2_Group 2,6,5,E
+Grade 2_Group 2,6,6,
+Grade 2_Group 2,6,7,
+Grade 2_Group 2,6,8,
+Grade 2_Group 2,7,1,
+Grade 2_Group 2,7,2,
+Grade 2_Group 2,7,3,
+Grade 2_Group 2,7,4,
+Grade 2_Group 2,7,5,
+Grade 2_Group 2,7,6,
+Grade 2_Group 2,7,7,
+Grade 2_Group 2,7,8,PE 2
+Grade 3_Entire class,2,8,
+Grade 3_Entire class,3,4,
+Grade 3_Entire class,4,6,
+Grade 3_Entire class,5,5,
+Grade 3_Entire class,6,8,
+Grade 3_Entire class,7,2,
+Grade 3_PYP1,1,1,
+Grade 3_PYP1,1,5,
+Grade 3_PYP1,1,6,
+Grade 3_PYP1,1,7,
+Grade 3_PYP1,2,4,
+Grade 3_PYP1,2,5,
+Grade 3_PYP1,2,7,
+Grade 3_PYP1,3,3,
+Grade 3_PYP1,3,6,
+Grade 3_PYP1,3,7,
+Grade 3_PYP1,4,1,
+Grade 3_PYP1,4,7,
+Grade 3_PYP1,4,8,
+Grade 3_PYP1,5,2,
+Grade 3_PYP1,5,3,
+Grade 3_PYP1,5,4,
+Grade 3_PYP1,5,7,
+Grade 3_PYP1,6,4,
+Grade 3_PYP1,6,5,
+Grade 3_PYP1,6,7,
+Grade 3_PYP1,7,5,
+Grade 3_PYP1,7,6,
+Grade 3_PYP1,7,7,
+Grade 3_PYP2,1,1,
+Grade 3_PYP2,1,5,
+Grade 3_PYP2,1,6,
+Grade 3_PYP2,1,7,
+Grade 3_PYP2,2,4,
+Grade 3_PYP2,2,5,
+Grade 3_PYP2,2,7,
+Grade 3_PYP2,3,3,
+Grade 3_PYP2,3,6,
+Grade 3_PYP2,3,7,
+Grade 3_PYP2,4,1,
+Grade 3_PYP2,4,7,
+Grade 3_PYP2,4,8,
+Grade 3_PYP2,5,2,
+Grade 3_PYP2,5,3,
+Grade 3_PYP2,5,4,
+Grade 3_PYP2,5,7,
+Grade 3_PYP2,6,4,
+Grade 3_PYP2,6,5,
+Grade 3_PYP2,6,7,
+Grade 3_PYP2,7,5,
+Grade 3_PYP2,7,6,
+Grade 3_PYP2,7,7,
+Grade 3_pyp1,1,3,
+Grade 3_pyp1,1,8,
+Grade 3_pyp1,2,3,
+Grade 3_pyp1,2,6,
+Grade 3_pyp1,3,2,
+Grade 3_pyp1,3,5,
+Grade 3_pyp1,4,4,
+Grade 3_pyp1,4,5,
+Grade 3_pyp1,5,6,
+Grade 3_pyp1,6,1,
+Grade 3_pyp1,6,3,
+Grade 3_pyp1,7,3,
+Grade 3_pyp1,7,8,
+Grade 3_pyp2,1,2,
+Grade 3_pyp2,1,4,
+Grade 3_pyp2,2,1,
+Grade 3_pyp2,2,2,
+Grade 3_pyp2,3,1,
+Grade 3_pyp2,3,8,
+Grade 3_pyp2,4,2,
+Grade 3_pyp2,4,3,
+Grade 3_pyp2,5,8,
+Grade 3_pyp2,6,2,
+Grade 3_pyp2,6,6,
+Grade 3_pyp2,7,1,
+Grade 3_pyp2,7,4,
+Grade 3_specialist1,1,3,Elem Vis Arts
+Grade 3_specialist1,1,8,
+Grade 3_specialist1,2,3,PE 1
+Grade 3_specialist1,2,6,
+Grade 3_specialist1,3,2,PE 1
+Grade 3_specialist1,3,5,
+Grade 3_specialist1,4,4,Elem Vis Arts
+Grade 3_specialist1,4,5,PE 3
+Grade 3_specialist1,5,6,
+Grade 3_specialist1,6,1,
+Grade 3_specialist1,6,3,PE 1
+Grade 3_specialist1,7,3,Elem Vis Arts
+Grade 3_specialist1,7,8,
+Grade 3_specialist2,1,2,Elem Vis Arts
+Grade 3_specialist2,1,4,
+Grade 3_specialist2,2,1,PE 4
+Grade 3_specialist2,2,2,Elem Vis Arts
+Grade 3_specialist2,3,1,
+Grade 3_specialist2,3,8,PE 2
+Grade 3_specialist2,4,2,PE 4
+Grade 3_specialist2,4,3,
+Grade 3_specialist2,5,8,
+Grade 3_specialist2,6,2,
+Grade 3_specialist2,6,6,Elem Vis Arts
+Grade 3_specialist2,7,1,
+Grade 3_specialist2,7,4,PE 1
+Grade 4_Entire class,2,2,
+Grade 4_Entire class,3,2,
+Grade 4_Entire class,4,5,
+Grade 4_Entire class,5,2,
+Grade 4_Entire class,6,7,
+Grade 4_Entire class,7,4,
+Grade 4_Group 1,1,1,
+Grade 4_Group 1,1,2,
+Grade 4_Group 1,1,3,
+Grade 4_Group 1,1,4,
+Grade 4_Group 1,1,5,PE 2
+Grade 4_Group 1,1,6,
+Grade 4_Group 1,1,7,Elem Vis Arts
+Grade 4_Group 1,1,8,
+Grade 4_Group 1,2,1,
+Grade 4_Group 1,2,3,
+Grade 4_Group 1,2,4,
+Grade 4_Group 1,2,5,
+Grade 4_Group 1,2,6,
+Grade 4_Group 1,2,7,PE 4
+Grade 4_Group 1,2,8,Elem Vis Arts
+Grade 4_Group 1,3,1,
+Grade 4_Group 1,3,3,
+Grade 4_Group 1,3,4,
+Grade 4_Group 1,3,5,
+Grade 4_Group 1,3,6,
+Grade 4_Group 1,3,7,PE 4
+Grade 4_Group 1,3,8,
+Grade 4_Group 1,4,1,
+Grade 4_Group 1,4,2,
+Grade 4_Group 1,4,3,
+Grade 4_Group 1,4,4,
+Grade 4_Group 1,4,6,
+Grade 4_Group 1,4,7,
+Grade 4_Group 1,4,8,
+Grade 4_Group 1,5,3,
+Grade 4_Group 1,5,4,
+Grade 4_Group 1,5,5,Elem Vis Arts
+Grade 4_Group 1,5,6,
+Grade 4_Group 1,5,7,
+Grade 4_Group 1,6,1,
+Grade 4_Group 1,6,2,
+Grade 4_Group 1,6,3,
+Grade 4_Group 1,6,4,
+Grade 4_Group 1,6,5,
+Grade 4_Group 1,6,6,E
+Grade 4_Group 1,6,8,
+Grade 4_Group 1,7,1,
+Grade 4_Group 1,7,2,PE 1
+Grade 4_Group 1,7,3,
+Grade 4_Group 1,7,5,
+Grade 4_Group 1,7,6,
+Grade 4_Group 1,7,7,
+Grade 4_Group 1,7,8,
+Grade 4_Group 2,1,1,Elem Vis Arts
+Grade 4_Group 2,1,2,
+Grade 4_Group 2,1,3,
+Grade 4_Group 2,1,4,
+Grade 4_Group 2,1,5,
+Grade 4_Group 2,1,6,
+Grade 4_Group 2,1,7,
+Grade 4_Group 2,1,8,
+Grade 4_Group 2,2,1,
+Grade 4_Group 2,2,3,
+Grade 4_Group 2,2,4,
+Grade 4_Group 2,2,5,
+Grade 4_Group 2,2,6,
+Grade 4_Group 2,2,7,
+Grade 4_Group 2,2,8,
+Grade 4_Group 2,3,1,
+Grade 4_Group 2,3,3,
+Grade 4_Group 2,3,4,
+Grade 4_Group 2,3,5,
+Grade 4_Group 2,3,6,PE 1
+Grade 4_Group 2,3,7,
+Grade 4_Group 2,3,8,
+Grade 4_Group 2,4,1,
+Grade 4_Group 2,4,2,
+Grade 4_Group 2,4,3,
+Grade 4_Group 2,4,4,
+Grade 4_Group 2,4,6,Elem Vis Arts
+Grade 4_Group 2,4,7,
+Grade 4_Group 2,4,8,PE 4
+Grade 4_Group 2,5,3,
+Grade 4_Group 2,5,4,
+Grade 4_Group 2,5,5,
+Grade 4_Group 2,5,6,
+Grade 4_Group 2,5,7,PE 3
+Grade 4_Group 2,5,8,
+Grade 4_Group 2,6,1,
+Grade 4_Group 2,6,2,PE 4
+Grade 4_Group 2,6,3,
+Grade 4_Group 2,6,4,
+Grade 4_Group 2,6,5,
+Grade 4_Group 2,6,6,
+Grade 4_Group 2,6,8,
+Grade 4_Group 2,7,1,
+Grade 4_Group 2,7,2,E
+Grade 4_Group 2,7,3,
+Grade 4_Group 2,7,5,Elem Vis Arts
+Grade 4_Group 2,7,6,
+Grade 4_Group 2,7,7,
+Grade 5_Entire class,1,2,6-24
+Grade 5_Entire class,2,5,6-18
+Grade 5_Entire class,2,6,6-18
+Grade 5_Entire class,4,2,6-23
+Grade 5_Entire class,5,3,7-06
+Grade 5_Entire class,7,3,6-33
+Grade 5_Group 1,1,1,
+Grade 5_Group 1,1,3,
+Grade 5_Group 1,1,4,
+Grade 5_Group 1,1,5,
+Grade 5_Group 1,1,6,
+Grade 5_Group 1,1,7,
+Grade 5_Group 1,1,8,
+Grade 5_Group 1,2,1,
+Grade 5_Group 1,2,2,
+Grade 5_Group 1,2,3,
+Grade 5_Group 1,2,4,
+Grade 5_Group 1,2,7,
+Grade 5_Group 1,2,8,PE 3
+Grade 5_Group 1,3,1,
+Grade 5_Group 1,3,2,
+Grade 5_Group 1,3,3,
+Grade 5_Group 1,3,4,
+Grade 5_Group 1,3,5,Elem Vis Arts
+Grade 5_Group 1,3,6,Elem Vis Arts
+Grade 5_Group 1,3,7,
+Grade 5_Group 1,3,8,
+Grade 5_Group 1,4,1,
+Grade 5_Group 1,4,3,
+Grade 5_Group 1,4,4,
+Grade 5_Group 1,4,5,PE 1
+Grade 5_Group 1,4,6,
+Grade 5_Group 1,4,7,
+Grade 5_Group 1,4,8,
+Grade 5_Group 1,5,2,
+Grade 5_Group 1,5,4,PE 1
+Grade 5_Group 1,5,5,
+Grade 5_Group 1,5,6,
+Grade 5_Group 1,5,7,E
+Grade 5_Group 1,5,8,
+Grade 5_Group 1,6,1,Elem Vis Arts
+Grade 5_Group 1,6,2,
+Grade 5_Group 1,6,3,
+Grade 5_Group 1,6,4,
+Grade 5_Group 1,6,5,
+Grade 5_Group 1,6,6,
+Grade 5_Group 1,6,7,
+Grade 5_Group 1,6,8,PE 2
+Grade 5_Group 1,7,1,
+Grade 5_Group 1,7,2,
+Grade 5_Group 1,7,4,
+Grade 5_Group 1,7,5,
+Grade 5_Group 1,7,6,
+Grade 5_Group 1,7,7,
+Grade 5_Group 1,7,8,
+Grade 5_Group 2,1,1,
+Grade 5_Group 2,1,3,
+Grade 5_Group 2,1,4,E
+Grade 5_Group 2,1,5,
+Grade 5_Group 2,1,6,
+Grade 5_Group 2,1,7,
+Grade 5_Group 2,1,8,
+Grade 5_Group 2,2,1,PE 3
+Grade 5_Group 2,2,2,
+Grade 5_Group 2,2,3,
+Grade 5_Group 2,2,4,
+Grade 5_Group 2,2,7,
+Grade 5_Group 2,2,8,
+Grade 5_Group 2,3,1,Elem Vis Arts
+Grade 5_Group 2,3,2,Elem Vis Arts
+Grade 5_Group 2,3,3,
+Grade 5_Group 2,3,4,
+Grade 5_Group 2,3,5,
+Grade 5_Group 2,3,6,
+Grade 5_Group 2,3,7,
+Grade 5_Group 2,3,8,PE 3
+Grade 5_Group 2,4,1,
+Grade 5_Group 2,4,3,
+Grade 5_Group 2,4,4,
+Grade 5_Group 2,4,5,
+Grade 5_Group 2,4,6,
+Grade 5_Group 2,4,7,
+Grade 5_Group 2,4,8,
+Grade 5_Group 2,5,2,
+Grade 5_Group 2,5,4,
+Grade 5_Group 2,5,5,
+Grade 5_Group 2,5,6,
+Grade 5_Group 2,5,7,PE 1
+Grade 5_Group 2,5,8,
+Grade 5_Group 2,6,1,
+Grade 5_Group 2,6,2,
+Grade 5_Group 2,6,3,Elem Vis Arts
+Grade 5_Group 2,6,4,PE 2
+Grade 5_Group 2,6,5,
+Grade 5_Group 2,6,6,
+Grade 5_Group 2,6,7,
+Grade 5_Group 2,6,8,
+Grade 5_Group 2,7,1,
+Grade 5_Group 2,7,2,
+Grade 5_Group 2,7,4,
+Grade 5_Group 2,7,5,
+Grade 5_Group 2,7,6,
+Grade 5_Group 2,7,7,
+Grade 5_Group 2,7,8,
+KG_Entire class,1,5,Elem Vis Arts
+KG_Entire class,1,6,
+KG_Entire class,1,7,PE 4
+KG_Entire class,2,1,E
+KG_Entire class,2,3,
+KG_Entire class,3,4,
+KG_Entire class,3,6,
+KG_Entire class,4,4,
+KG_Entire class,4,7,PE 2
+KG_Entire class,5,3,PE 1
+KG_Entire class,5,4,
+KG_Entire class,5,7,Elem Vis Arts
+KG_Entire class,6,4,Elem Vis Arts
+KG_Entire class,6,5,
+KG_Entire class,6,6,PE 1
+KG_Entire class,7,3,
+KG_Entire class,7,5,
+KG_Entire class,7,6,

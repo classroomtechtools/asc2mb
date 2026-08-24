@@ -1,0 +1,318 @@
+Class ID,Year,Group,Subject,Name,Section,Teacher Email
+AMP,Grade 10,MS Middle School Subjects,AMP,,2,grimaldi.tobias@example.com
+AMP,Grade 10,MS Middle School Subjects,AMP,,2,marchetti.mira@example.com
+AMP,Grade 11,HS Other high school lessons,AMP,,10,barlow.elena@example.com
+AMP,Grade 11,HS Other high school lessons,AMP,,10,kendrick.greta@example.com
+AMP,Grade 12,HS Other high school lessons,AMP,,10,dalton.lena@example.com
+AMP,Grade 12,HS Other high school lessons,AMP,,10,ingram.zara@example.com
+AMP,Grade 6,MS Middle School Subjects,AMP,,2,fenwick.quinn@example.com
+AMP,Grade 6,MS Middle School Subjects,AMP,,2,gallagher.ulla@example.com
+AMP,Grade 7,MS Middle School Subjects,AMP,,2,dalton.karina@example.com
+AMP,Grade 7,MS Middle School Subjects,AMP,,2,jardine.carmen@example.com
+AMP,Grade 8,MS Middle School Subjects,AMP,,2,abbott.alice@example.com
+AMP,Grade 8,MS Middle School Subjects,AMP,,2,calder.iris@example.com
+AMP,Grade 9,MS Middle School Subjects,AMP,,2,ingram.yuki@example.com
+AMP,Grade 9,MS Middle School Subjects,AMP,,2,kendrick.elena@example.com
+ART,Grade 10,MYP Arts,ART,,7,calder.hana@example.com
+ART,Grade 10,MYP Arts,ART,,7,calder.iris@example.com
+ART,Grade 10,MYP Arts,ART,,7,jardine.bianca@example.com
+ART,Grade 6,MYP Arts,ART,,8,calder.hana@example.com
+ART,Grade 6,MYP Arts,ART,,8,calder.iris@example.com
+ART,Grade 7,MYP Arts,ART,,7,calder.hana@example.com
+ART,Grade 7,MYP Arts,ART,,7,jardine.bianca@example.com
+ART,Grade 8,MYP Arts,ART,,8,calder.iris@example.com
+ART,Grade 8,MYP Arts,ART,,8,jardine.bianca@example.com
+ART,Grade 9,MYP Arts,ART,,8,calder.hana@example.com
+ART,Grade 9,MYP Arts,ART,,8,calder.iris@example.com
+ART,Grade 9,MYP Arts,ART,,8,jardine.bianca@example.com
+BM,Grade 1,Elem Bahasa Malaysia,BM,,2,quintero.wanda@example.com
+BM,Grade 1,Elem Bahasa Malaysia,BM,,3,quintero.wanda@example.com
+BM,Grade 2,Elem Bahasa Malaysia,BM,,2,quintero.wanda@example.com
+BM,Grade 3,Elem Bahasa Malaysia,BM,,2,quintero.wanda@example.com
+BM,Grade 3,Elem Bahasa Malaysia,BM,,3,quintero.wanda@example.com
+BM,Grade 4,Elem Bahasa Malaysia,BM,,2,quintero.wanda@example.com
+BM,Grade 5,Elem Bahasa Malaysia,BM,,2,quintero.wanda@example.com
+CORE,Grade 11,DP Core,CORE,,18,gallagher.sonia@example.com
+CORE,Grade 11,DP Core,CORE,,18,harlow.vera@example.com
+CORE,Grade 11,DP Core,CORE,,9,gallagher.sonia@example.com
+CORE,Grade 11,DP Core,CORE,,9,harlow.vera@example.com
+CORE,Grade 12,DP Core,CORE,,17,dalton.jasmine@example.com
+CORE,Grade 12,DP Core,CORE,,17,gallagher.sonia@example.com
+CORE,Grade 12,DP Core,CORE,,9,dalton.jasmine@example.com
+CORE,Grade 12,DP Core,CORE,,9,gallagher.sonia@example.com
+CP,Grade 11,CP Career-related Programme,CP,,19,ellery.mira@example.com
+CP,Grade 11,CP Career-related Programme,CP,,9,ellery.mira@example.com
+CP,Grade 12,CP Career-related Programme,CP,,19,ellery.mira@example.com
+CP,Grade 12,CP Career-related Programme,CP,,9,ellery.mira@example.com
+DGN/1,Grade 10,MYP Design,DGN/1,,5,fenwick.quinn@example.com
+DGN/1,Grade 10,MYP Design,DGN/1,,5,harlow.wanda@example.com
+DGN/1,Grade 6,MYP Design,DGN/1,,7,ellery.nadia@example.com
+DGN/1,Grade 6,MYP Design,DGN/1,,7,fenwick.quinn@example.com
+DGN/1,Grade 7,MYP Design,DGN/1,,14,ellery.nadia@example.com
+DGN/1,Grade 8,MYP Design,DGN/1,,12,fenwick.quinn@example.com
+DGN/1,Grade 9,MYP Design,DGN/1,,6,fenwick.quinn@example.com
+DGN/1,Grade 9,MYP Design,DGN/1,,6,harlow.wanda@example.com
+DGN/2,Grade 7,MYP Design_,DGN/2,,15,fenwick.quinn@example.com
+DGN/2,Grade 8,MYP Design_,DGN/2,,13,ellery.nadia@example.com
+ESOL,Grade 6,MS Middle School Subjects,ESOL,,10,dalton.karina@example.com
+ESOL,Grade 8,MS Middle School Subjects,ESOL,,13,dalton.karina@example.com
+G1,Grade 11,DP Studies in language and literature,G1,,13,gallagher.sonia@example.com
+G1,Grade 11,DP Studies in language and literature,G1,,13,jardine.dahlia@example.com
+G1,Grade 11,DP Studies in language and literature,G1,,3,gallagher.sonia@example.com
+G1,Grade 11,DP Studies in language and literature,G1,,3,jardine.dahlia@example.com
+G1,Grade 11,DP Studies in language and literature,G1,,3,kendrick.greta@example.com
+G1,Grade 12,DP Studies in language and literature,G1,,13,gallagher.sonia@example.com
+G1,Grade 12,DP Studies in language and literature,G1,,13,jardine.dahlia@example.com
+G1,Grade 12,DP Studies in language and literature,G1,,3,gallagher.sonia@example.com
+G1,Grade 12,DP Studies in language and literature,G1,,3,grimaldi.tobias@example.com
+G1,Grade 12,DP Studies in language and literature,G1,,3,jardine.dahlia@example.com
+G1/2,Grade 11,DP Studies in language and literature,G1/2,,12,fenwick.rosa@example.com
+G1/2,Grade 11,DP Studies in language and literature,G1/2,,12,kendrick.elena@example.com
+G1/2,Grade 11,DP Studies in language and literature,G1/2,,19,fenwick.rosa@example.com
+G1/2,Grade 11,DP Studies in language and literature,G1/2,,19,kendrick.elena@example.com
+G1/2,Grade 11,DP Studies in language and literature,G1/2,,6,fenwick.rosa@example.com
+G1/2,Grade 11,DP Studies in language and literature,G1/2,,6,kendrick.elena@example.com
+G1/2,Grade 12,DP Studies in language and literature,G1/2,,12,fenwick.rosa@example.com
+G1/2,Grade 12,DP Studies in language and literature,G1/2,,19,fenwick.rosa@example.com
+G1/2,Grade 12,DP Studies in language and literature,G1/2,,19,kendrick.elena@example.com
+G1/2,Grade 12,DP Studies in language and literature,G1/2,,6,fenwick.rosa@example.com
+G1/2,Grade 12,DP Studies in language and literature,G1/2,,6,kendrick.elena@example.com
+G2,Grade 11,DP Language acquisition,G2,,12,calder.greta@example.com
+G2,Grade 11,DP Language acquisition,G2,,19,abbott.bianca@example.com
+G2,Grade 11,DP Language acquisition,G2,,19,calder.greta@example.com
+G2,Grade 11,DP Language acquisition,G2,,19,fenwick.petra@example.com
+G2,Grade 11,DP Language acquisition,G2,,19,langley.jasmine@example.com
+G2,Grade 11,DP Language acquisition,G2,,6,abbott.bianca@example.com
+G2,Grade 11,DP Language acquisition,G2,,6,calder.greta@example.com
+G2,Grade 11,DP Language acquisition,G2,,6,fenwick.petra@example.com
+G2,Grade 11,DP Language acquisition,G2,,6,langley.jasmine@example.com
+G2,Grade 12,DP Language acquisition,G2,,12,barlow.elena@example.com
+G2,Grade 12,DP Language acquisition,G2,,19,abbott.bianca@example.com
+G2,Grade 12,DP Language acquisition,G2,,19,bennett.emmett@example.com
+G2,Grade 12,DP Language acquisition,G2,,19,fenwick.petra@example.com
+G2,Grade 12,DP Language acquisition,G2,,6,abbott.bianca@example.com
+G2,Grade 12,DP Language acquisition,G2,,6,barlow.elena@example.com
+G2,Grade 12,DP Language acquisition,G2,,6,fenwick.petra@example.com
+G3,Grade 11,DP Individuals and societies,G3,,4,dalton.jasmine@example.com
+G3,Grade 11,DP Individuals and societies,G3,,4,dalton.lena@example.com
+G3,Grade 11,DP Individuals and societies,G3,,4,langley.iris@example.com
+G3,Grade 11,DP Individuals and societies,G3,,4,unknown.teacher@example.com
+G3,Grade 11,DP Individuals and societies,G3,,7,dalton.jasmine@example.com
+G3,Grade 11,DP Individuals and societies,G3,,7,dalton.lena@example.com
+G3,Grade 11,DP Individuals and societies,G3,,7,langley.iris@example.com
+G3,Grade 11,DP Individuals and societies,G3,,7,unknown.teacher@example.com
+G3,Grade 12,DP Individuals and societies,G3,,4,dalton.jasmine@example.com
+G3,Grade 12,DP Individuals and societies,G3,,4,dalton.lena@example.com
+G3,Grade 12,DP Individuals and societies,G3,,4,gallagher.tessa@example.com
+G3,Grade 12,DP Individuals and societies,G3,,4,langley.iris@example.com
+G3,Grade 12,DP Individuals and societies,G3,,7,dalton.jasmine@example.com
+G3,Grade 12,DP Individuals and societies,G3,,7,dalton.lena@example.com
+G3,Grade 12,DP Individuals and societies,G3,,7,gallagher.tessa@example.com
+G3,Grade 12,DP Individuals and societies,G3,,7,langley.iris@example.com
+G3/6,Grade 11,DP Individuals and societies,G3/6,,11,langley.iris@example.com
+G3/6,Grade 11,DP Individuals and societies,G3/6,,15,langley.iris@example.com
+G3/6,Grade 11,DP Individuals and societies,G3/6,,17,langley.iris@example.com
+G3/6,Grade 12,DP Individuals and societies,G3/6,,11,langley.iris@example.com
+G3/6,Grade 12,DP Individuals and societies,G3/6,,15,langley.iris@example.com
+G3/6,Grade 12,DP Individuals and societies,G3/6,,18,langley.iris@example.com
+G4,Grade 11,DP Sciences,G4,,5,abbott.alice@example.com
+G4,Grade 11,DP Sciences,G4,,5,abbott.carmen@example.com
+G4,Grade 11,DP Sciences,G4,,5,harlow.wanda@example.com
+G4,Grade 11,DP Sciences,G4,,8,abbott.alice@example.com
+G4,Grade 11,DP Sciences,G4,,8,abbott.carmen@example.com
+G4,Grade 11,DP Sciences,G4,,8,harlow.wanda@example.com
+G4,Grade 12,DP Sciences,G4,,5,abbott.alice@example.com
+G4,Grade 12,DP Sciences,G4,,5,harlow.vera@example.com
+G4,Grade 12,DP Sciences,G4,,5,harlow.wanda@example.com
+G4,Grade 12,DP Sciences,G4,,8,abbott.alice@example.com
+G4,Grade 12,DP Sciences,G4,,8,harlow.vera@example.com
+G4,Grade 12,DP Sciences,G4,,8,harlow.wanda@example.com
+G4/6,Grade 11,DP Sciences,G4/6,,11,barlow.farida@example.com
+G4/6,Grade 11,DP Sciences,G4/6,,15,barlow.farida@example.com
+G4/6,Grade 11,DP Sciences,G4/6,,17,barlow.farida@example.com
+G4/6,Grade 12,DP Sciences,G4/6,,11,barlow.farida@example.com
+G4/6,Grade 12,DP Sciences,G4/6,,15,barlow.farida@example.com
+G4/6,Grade 12,DP Sciences,G4/6,,18,barlow.farida@example.com
+G5,Grade 11,DP Mathematics,G5,,14,marchetti.lena@example.com
+G5,Grade 11,DP Mathematics,G5,,2,ellery.mira@example.com
+G5,Grade 11,DP Mathematics,G5,,2,ingram.zara@example.com
+G5,Grade 11,DP Mathematics,G5,,2,marchetti.lena@example.com
+G5,Grade 12,DP Mathematics,G5,,14,marchetti.lena@example.com
+G5,Grade 12,DP Mathematics,G5,,2,ellery.mira@example.com
+G5,Grade 12,DP Mathematics,G5,,2,marchetti.karina@example.com
+G5,Grade 12,DP Mathematics,G5,,2,marchetti.lena@example.com
+G6,Grade 12,DP Arts,G6,,11,barlow.dahlia@example.com
+G6,Grade 12,DP Arts,G6,,11,calder.hana@example.com
+G6,Grade 12,DP Arts,G6,,11,jardine.bianca@example.com
+G6,Grade 12,DP Arts,G6,,12,barlow.dahlia@example.com
+G6,Grade 12,DP Arts,G6,,12,calder.hana@example.com
+G6,Grade 12,DP Arts,G6,,12,jardine.bianca@example.com
+G6,Grade 12,DP Arts,G6,,14,barlow.dahlia@example.com
+G6,Grade 12,DP Arts,G6,,14,calder.hana@example.com
+G6,Grade 12,DP Arts,G6,,14,jardine.bianca@example.com
+HN,Grade 1,ES Host Nations,HN,,1,ibarra.andre@example.com
+HN,Grade 1,ES Host Nations,HN,,2,ibarra.andre@example.com
+HN,Grade 1,ES Host Nations,HN,,3,ibarra.andre@example.com
+HN,Grade 10,MS Middle School Subjects,HN,,3,abbott.bianca@example.com
+HN,Grade 2,ES Host Nations,HN,,2,ibarra.andre@example.com
+HN,Grade 3,ES Host Nations,HN,,2,ibarra.andre@example.com
+HN,Grade 3,ES Host Nations,HN,,3,ibarra.andre@example.com
+HN,Grade 4,ES Host Nations,HN,,2,ibarra.andre@example.com
+HN,Grade 5,ES Host Nations,HN,,2,ibarra.andre@example.com
+HN,Grade 6,MS Middle School Subjects,HN,,3,abbott.bianca@example.com
+HN,Grade 6,MS Middle School Subjects,HN,,3,underwood.iris@example.com
+HN,Grade 7,MS Middle School Subjects,HN,,11,underwood.iris@example.com
+HN,Grade 7,MS Middle School Subjects,HN,,11,underwood.jasmine@example.com
+HN,Grade 8,MS Middle School Subjects,HN,,9,abbott.bianca@example.com
+HN,Grade 8,MS Middle School Subjects,HN,,9,underwood.iris@example.com
+HN,Grade 9,MS Middle School Subjects,HN,,11,abbott.bianca@example.com
+HN,Grade 9,MS Middle School Subjects,HN,,14,abbott.bianca@example.com
+HN,Grade KG,ES Host Nations,HN,,1,ibarra.andre@example.com
+HS,Grade 11,HS High School Subjects,HS,,16,langley.hana@example.com
+HS,Grade 12,HS High School Subjects,HS,,16,ingram.alice@example.com
+I&S/1,Grade 10,MYP Individuals & societies,I&S/1,,9,dalton.jasmine@example.com
+I&S/1,Grade 6,MYP Individuals & societies,I&S/1,,11,dalton.lena@example.com
+I&S/1,Grade 7,MYP Individuals & societies,I&S/1,,8,gallagher.tessa@example.com
+I&S/1,Grade 8,MYP Individuals & societies,I&S/1,,5,dalton.lena@example.com
+I&S/1,Grade 9,MYP Individuals & societies,I&S/1,,9,kendrick.greta@example.com
+I&S/2,Grade 10,MYP Individuals & societies_,I&S/2,,10,gallagher.tessa@example.com
+I&S/2,Grade 6,MYP Individuals & societies_,I&S/2,,11,gallagher.tessa@example.com
+I&S/2,Grade 7,MYP Individuals & societies_,I&S/2,,8,kendrick.greta@example.com
+I&S/2,Grade 8,MYP Individuals & societies_,I&S/2,,5,gallagher.tessa@example.com
+I&S/2,Grade 9,MYP Individuals & societies_,I&S/2,,10,langley.iris@example.com
+INNO,Grade 10,MS Middle School Subjects,INNO,,10,abbott.alice@example.com|harlow.vera@example.com|kendrick.greta@example.com|dalton.lena@example.com|ingram.zara@example.com|marchetti.karina@example.com|gallagher.ulla@example.com|abbott.bianca@example.com|underwood.iris@example.com|ingram.alice@example.com|jardine.carmen@example.com|grimaldi.tobias@example.com|harlow.wanda@example.com
+INNO,Grade 6,MS Middle School Subjects,INNO,,13,abbott.alice@example.com|harlow.vera@example.com|kendrick.greta@example.com|dalton.lena@example.com|ingram.zara@example.com|marchetti.karina@example.com|gallagher.ulla@example.com|abbott.bianca@example.com|underwood.iris@example.com|ingram.alice@example.com|jardine.carmen@example.com|grimaldi.tobias@example.com|harlow.wanda@example.com
+INNO,Grade 7,MS Middle School Subjects,INNO,,13,abbott.alice@example.com|harlow.vera@example.com|kendrick.greta@example.com|dalton.lena@example.com|ingram.zara@example.com|marchetti.karina@example.com|gallagher.ulla@example.com|abbott.bianca@example.com|underwood.iris@example.com|ingram.alice@example.com|jardine.carmen@example.com|grimaldi.tobias@example.com|harlow.wanda@example.com
+INNO,Grade 8,MS Middle School Subjects,INNO,,13,abbott.alice@example.com|harlow.vera@example.com|kendrick.greta@example.com|dalton.lena@example.com|ingram.zara@example.com|marchetti.karina@example.com|gallagher.ulla@example.com|abbott.bianca@example.com|underwood.iris@example.com|ingram.alice@example.com|jardine.carmen@example.com|grimaldi.tobias@example.com|harlow.wanda@example.com
+INNO,Grade 9,MS Middle School Subjects,INNO,,13,abbott.alice@example.com|harlow.vera@example.com|kendrick.greta@example.com|dalton.lena@example.com|ingram.zara@example.com|marchetti.karina@example.com|gallagher.ulla@example.com|abbott.bianca@example.com|underwood.iris@example.com|ingram.alice@example.com|jardine.carmen@example.com|grimaldi.tobias@example.com|harlow.wanda@example.com
+L,Grade 1,Elem Library,L,,2,marchetti.mira@example.com
+L,Grade 1,Elem Library,L,,3,marchetti.mira@example.com
+L,Grade 2,Elem Library,L,,2,marchetti.mira@example.com
+L,Grade 3,Elem Library,L,,2,marchetti.mira@example.com
+L,Grade 3,Elem Library,L,,3,marchetti.mira@example.com
+L,Grade 4,Elem Library,L,,2,marchetti.mira@example.com
+L,Grade 5,Elem Library,L,,2,marchetti.mira@example.com
+L,Grade Fireflies,Elem Library,L,,1,marchetti.mira@example.com
+L,Grade KG,Elem Library,L,,1,marchetti.mira@example.com
+LANG/1,Grade 10,MYP Language and literature,LANG/1,,11,gallagher.sonia@example.com
+LANG/1,Grade 10,MYP Language and literature,LANG/1,,11,kendrick.greta@example.com
+LANG/1,Grade 6,MYP Language and literature,LANG/1,,4,grimaldi.tobias@example.com
+LANG/1,Grade 6,MYP Language and literature,LANG/1,,4,jardine.dahlia@example.com
+LANG/1,Grade 7,MYP Language and literature,LANG/1,,4,grimaldi.tobias@example.com
+LANG/1,Grade 7,MYP Language and literature,LANG/1,,4,kendrick.greta@example.com
+LANG/1,Grade 8,MYP Language and literature,LANG/1,,4,gallagher.sonia@example.com
+LANG/1,Grade 8,MYP Language and literature,LANG/1,,4,gallagher.ulla@example.com
+LANG/1,Grade 9,MYP Language and literature,LANG/1,,3,gallagher.ulla@example.com
+LANG/1,Grade 9,MYP Language and literature,LANG/1,,3,grimaldi.tobias@example.com
+LANG/2,Grade 10,MYP Language and literature_,LANG/2,,10,kendrick.elena@example.com
+LANG/2,Grade 10,MYP Language and literature_,LANG/2,,9,fenwick.rosa@example.com
+LANG/2,Grade 8,MYP Language and literature_,LANG/2,,13,bennett.emmett@example.com
+LQ,Grade 1,PYP LQ,LQ,,1,pemberton.vera@example.com|quintero.yuki@example.com
+LQ,Grade 1,PYP LQ -,LQ,,1,quintero.yuki@example.com
+LQ,Grade 10,MYP Language Acquisiiton_,LQ,,10,calder.greta@example.com
+LQ,Grade 10,MYP Language Acquisiiton_,LQ,,10,fenwick.petra@example.com
+LQ,Grade 10,MYP Language Acquisiiton_,LQ,,9,langley.jasmine@example.com
+LQ,Grade 2,PYP LQ,LQ,,1,pemberton.vera@example.com|quintero.yuki@example.com
+LQ,Grade 2,PYP LQ -,LQ,,1,quintero.yuki@example.com
+LQ,Grade 3,PYP LQ,LQ,,1,pemberton.vera@example.com|calder.greta@example.com|quintero.yuki@example.com
+LQ,Grade 4,PYP LQ,LQ,,1,pemberton.vera@example.com|quintero.yuki@example.com|calder.greta@example.com
+LQ,Grade 5,PYP LQ,LQ,,1,langley.jasmine@example.com|pemberton.vera@example.com|calder.greta@example.com
+LQ,Grade 5,PYP LQ,LQ,,1,langley.jasmine@example.com|quintero.yuki@example.com|calder.greta@example.com
+LQ,Grade 8,MYP Language Acquisiiton_,LQ,,13,barlow.elena@example.com
+LQ,Grade 8,MYP Language Acquisiiton_,LQ,,13,fenwick.petra@example.com
+LQ,Grade 8,MYP Language Acquisiiton_,LQ,,13,fenwick.rosa@example.com
+LQ,Grade 8,MYP Language Acquisiiton_,LQ,,13,kendrick.elena@example.com
+LQ,Grade KG,PYP LQ -,LQ,,1,pemberton.vera@example.com|quintero.yuki@example.com
+LQ/1,Grade 10,MYP Language Acquisition,LQ/1,,11,dalton.karina@example.com
+LQ/1,Grade 10,MYP Language Acquisition,LQ/1,,11,jardine.dahlia@example.com
+LQ/1,Grade 10,MYP Language Acquisition,LQ/1,,9,barlow.elena@example.com
+LQ/1,Grade 10,MYP Language Acquisition,LQ/1,,9,kendrick.elena@example.com
+LQ/1,Grade 6,MYP Language Acquisition,LQ/1,,10,barlow.elena@example.com
+LQ/1,Grade 6,MYP Language Acquisition,LQ/1,,10,calder.greta@example.com
+LQ/1,Grade 6,MYP Language Acquisition,LQ/1,,10,fenwick.petra@example.com
+LQ/1,Grade 6,MYP Language Acquisition,LQ/1,,4,dalton.karina@example.com
+LQ/1,Grade 8,MYP Language Acquisition,LQ/1,,12,barlow.elena@example.com
+LQ/1,Grade 8,MYP Language Acquisition,LQ/1,,12,fenwick.petra@example.com
+LQ/1,Grade 8,MYP Language Acquisition,LQ/1,,4,dalton.karina@example.com
+LQ/1,Grade 8,MYP Language Acquisition,LQ/1,,4,jardine.dahlia@example.com
+MAT,Grade 10,MYP Mathematics,MAT,,6,marchetti.karina@example.com
+MAT,Grade 10,MYP Mathematics,MAT,,6,marchetti.lena@example.com
+MAT,Grade 6,MYP Mathematics,MAT,,3,ellery.mira@example.com
+MAT,Grade 6,MYP Mathematics,MAT,,3,marchetti.lena@example.com
+MAT,Grade 7,MYP Mathematics,MAT,,3,ingram.zara@example.com
+MAT,Grade 7,MYP Mathematics,MAT,,3,marchetti.lena@example.com
+MAT,Grade 8,MYP Mathematics,MAT,,3,ingram.zara@example.com
+MAT,Grade 8,MYP Mathematics,MAT,,3,marchetti.karina@example.com
+MAT,Grade 9,MYP Mathematics,MAT,,7,ellery.mira@example.com
+MAT,Grade 9,MYP Mathematics,MAT,,7,marchetti.karina@example.com
+MU,Grade 1,PYP Music,MU,,1,hensley.xavier@example.com
+MU,Grade 1,PYP Music,MU,,2,hensley.xavier@example.com
+MU,Grade 1,PYP Music,MU,,3,hensley.xavier@example.com
+MU,Grade 2,PYP Music,MU,,2,hensley.xavier@example.com
+MU,Grade 3,PYP Music,MU,,2,hensley.xavier@example.com
+MU,Grade 3,PYP Music,MU,,3,hensley.xavier@example.com
+MU,Grade 4,PYP Music,MU,,2,hensley.xavier@example.com
+MU,Grade 5,PYP Music,MU,,2,hensley.xavier@example.com
+MU,Grade KG,PYP Music,MU,,1,hensley.xavier@example.com
+PHE,Grade 1,PYP PHE,PHE,,1,quintero.xenia@example.com
+PHE,Grade 1,PYP PHE,PHE,,2,ingram.yuki@example.com
+PHE,Grade 1,PYP PHE,PHE,,3,quintero.xenia@example.com
+PHE,Grade 10,MYP Physical and health education,PHE,,4,ingram.alice@example.com
+PHE,Grade 10,MYP Physical and health education,PHE,,4,jardine.carmen@example.com
+PHE,Grade 2,PYP PHE,PHE,,2,quintero.xenia@example.com
+PHE,Grade 3,PYP PHE,PHE,,2,ingram.yuki@example.com
+PHE,Grade 3,PYP PHE,PHE,,3,ingram.yuki@example.com
+PHE,Grade 4,PYP PHE,PHE,,2,ingram.yuki@example.com
+PHE,Grade 4,PYP PHE,PHE,,2,quintero.xenia@example.com
+PHE,Grade 5,PYP PHE,PHE,,2,jardine.carmen@example.com
+PHE,Grade 6,MYP Physical and health education,PHE,,6,ingram.yuki@example.com
+PHE,Grade 6,MYP Physical and health education,PHE,,6,jardine.carmen@example.com
+PHE,Grade 7,MYP Physical and health education,PHE,,6,ingram.alice@example.com
+PHE,Grade 7,MYP Physical and health education,PHE,,6,jardine.carmen@example.com
+PHE,Grade 8,MYP Physical and health education,PHE,,7,ingram.alice@example.com
+PHE,Grade 8,MYP Physical and health education,PHE,,7,jardine.carmen@example.com
+PHE,Grade 9,MYP Physical and health education,PHE,,5,ingram.alice@example.com
+PHE,Grade 9,MYP Physical and health education,PHE,,5,ingram.yuki@example.com
+PHE,Grade Fireflies,PYP PHE,PHE,,1,quintero.xenia@example.com
+PHE,Grade KG,PYP PHE,PHE,,1,quintero.xenia@example.com
+PYP,Grade 1,PYP Homeroom,PYP,,2,okafor.sonia@example.com
+PYP,Grade 1,PYP Homeroom,PYP,,3,okafor.quinn@example.com
+PYP,Grade 1,PYP Homeroom,PYP,,6,okafor.quinn@example.com
+PYP,Grade 1,PYP Homeroom,PYP,,6,okafor.sonia@example.com
+PYP,Grade 2,PYP Homeroom,PYP,,2,ramsey.bianca@example.com
+PYP,Grade 2,PYP Homeroom,PYP,,2,ramsey.zara@example.com
+PYP,Grade 3,PYP Homeroom,PYP,,2,sandoval.carmen@example.com
+PYP,Grade 3,PYP Homeroom,PYP,,3,sandoval.dahlia@example.com
+PYP,Grade 3,PYP Homeroom,PYP,,6,sandoval.carmen@example.com
+PYP,Grade 3,PYP Homeroom,PYP,,6,sandoval.dahlia@example.com
+PYP,Grade 4,PYP Homeroom,PYP,,2,novak.petra@example.com
+PYP,Grade 4,PYP Homeroom,PYP,,2,sandoval.elena@example.com
+PYP,Grade 5,PYP Homeroom,PYP,,2,novak.olga@example.com
+PYP,Grade 5,PYP Homeroom,PYP,,2,okafor.rosa@example.com
+SCI,Grade 10,MYP Sciences,SCI,,3,abbott.alice@example.com
+SCI,Grade 10,MYP Sciences,SCI,,3,abbott.carmen@example.com
+SCI,Grade 6,MYP Sciences,SCI,,5,abbott.carmen@example.com
+SCI,Grade 6,MYP Sciences,SCI,,5,harlow.vera@example.com
+SCI,Grade 7,MYP Sciences,SCI,,5,abbott.alice@example.com
+SCI,Grade 7,MYP Sciences,SCI,,5,abbott.carmen@example.com
+SCI,Grade 8,MYP Sciences,SCI,,6,abbott.carmen@example.com
+SCI,Grade 8,MYP Sciences,SCI,,6,harlow.vera@example.com
+SCI,Grade 9,MYP Sciences,SCI,,11,harlow.vera@example.com
+SCI,Grade 9,MYP Sciences,SCI,,14,abbott.carmen@example.com
+SCI,Grade 9,MYP Sciences,SCI,,4,abbott.carmen@example.com
+SCI,Grade 9,MYP Sciences,SCI,,4,harlow.vera@example.com
+VA,Grade 1,PYP Visual Arts,VA,,1,pemberton.ulla@example.com
+VA,Grade 1,PYP Visual Arts,VA,,2,pemberton.ulla@example.com
+VA,Grade 1,PYP Visual Arts,VA,,3,pemberton.ulla@example.com
+VA,Grade 2,PYP Visual Arts,VA,,2,pemberton.ulla@example.com
+VA,Grade 3,PYP Visual Arts,VA,,2,pemberton.ulla@example.com
+VA,Grade 3,PYP Visual Arts,VA,,3,pemberton.ulla@example.com
+VA,Grade 4,PYP Visual Arts,VA,,2,pemberton.ulla@example.com
+VA,Grade 5,PYP Visual Arts,VA,,2,calder.iris@example.com
+VA,Grade 5,PYP Visual Arts,VA,,2,pemberton.ulla@example.com
+VA,Grade KG,PYP Visual Arts,VA,,1,pemberton.ulla@example.com
+Well.,Grade 10,MS Middle School Subjects,Well.,,11,langley.hana@example.com|calder.iris@example.com|calder.hana@example.com|ingram.alice@example.com|ingram.yuki@example.com|ellery.mira@example.com|ingram.zara@example.com|marchetti.karina@example.com|grimaldi.tobias@example.com|jardine.dahlia@example.com|gallagher.ulla@example.com|jardine.carmen@example.com
+Well.,Grade 6,MS Middle School Subjects,Well.,,12,langley.hana@example.com|calder.iris@example.com|calder.hana@example.com|ingram.alice@example.com|ingram.yuki@example.com|ellery.mira@example.com|ingram.zara@example.com|marchetti.karina@example.com|grimaldi.tobias@example.com|jardine.dahlia@example.com|gallagher.ulla@example.com|jardine.carmen@example.com
+Well.,Grade 7,MS Middle School Subjects,Well.,,12,langley.hana@example.com|calder.iris@example.com|calder.hana@example.com|ingram.alice@example.com|ingram.yuki@example.com|ellery.mira@example.com|ingram.zara@example.com|marchetti.karina@example.com|grimaldi.tobias@example.com|jardine.dahlia@example.com|gallagher.ulla@example.com|jardine.carmen@example.com
+Well.,Grade 8,MS Middle School Subjects,Well.,,12,langley.hana@example.com|calder.iris@example.com|calder.hana@example.com|ingram.alice@example.com|ingram.yuki@example.com|ellery.mira@example.com|ingram.zara@example.com|marchetti.karina@example.com|grimaldi.tobias@example.com|jardine.dahlia@example.com|gallagher.ulla@example.com|jardine.carmen@example.com
+Well.,Grade 9,MS Middle School Subjects,Well.,,12,langley.hana@example.com|calder.iris@example.com|calder.hana@example.com|ingram.alice@example.com|ingram.yuki@example.com|ellery.mira@example.com|ingram.zara@example.com|marchetti.karina@example.com|grimaldi.tobias@example.com|jardine.dahlia@example.com|gallagher.ulla@example.com|jardine.carmen@example.com

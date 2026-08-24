@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+.pytest_cache/
+.DS_Store
+
+# Local scratch: real aSc exports and the CSVs generated from them
+input_files/
+/classes.csv
+/timetable.csv
+/enrollments.csv
